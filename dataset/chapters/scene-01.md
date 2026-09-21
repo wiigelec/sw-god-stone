@@ -1,0 +1,113 @@
+# The Star That Moved Wrong
+
+Nari rubbed the last smear of oil from the lens with the heel of her thumb, frowned at the mark she had left behind, and reached for the square of soft hide tucked beneath the bronze rim. Master Orem had already reminded her twice that the High Count came only once each year, and she had no intention of giving him reason for a third reminder. She polished the glass again, checked the mounting marks, and brought the center line back against the hanging thread. The bronze was cold enough to sting her fingertips. She breathed lightly across the lens, watched the haze clear, and examined the surface one final time.
+
+“Ready?” Orem asked behind her.
+
+“Ready.”
+
+“Then leave it alone.”
+
+One of the senior counters chuckled. Nari ignored him and picked up her slate. Seven shallow columns had been scratched permanently across its black surface, each worn smooth around the edges by years of fingers and chalk. By the end of the High Count every column should hold seven marks. She checked that her chalk was sharp, slipped the cloth beneath the rim where it belonged, and only then allowed herself to look away from the instrument.
+
+Orem stood three paces behind her in his white counting robe, blue stitching thick around the cuffs and collar. The other counters formed a loose half-circle around him. Nari’s own tunic was plain brown, belted tightly against the wind. She had earned a place among them by learning the tables and proving she could handle the temple instruments without damaging them, but nobody looking across the terrace would mistake her for one of the masters.
+
+Beyond the counters burned the terrace lamps. Nari had been aware of the crowd all evening more as noise than anything else, sandals scraping stone and children being hushed while the priests arranged themselves for the count, but now she let her attention travel outward. People filled the upper steps and crowded the lower terraces. Families had climbed onto rooftops beyond the temple walls, and lamps and cooking fires descended the valley in broken lines until they disappeared into darkness. From where she stood the city looked quieter and more orderly than it ever did from inside its streets.
+
+At the center of the highest terrace stood the God-Stone, taller than three men and black beneath the lamps. Generations of hands had polished its lower face until the surface carried a dull shine. Bowls of grain, feathers, carved animals, strips of dyed cloth, and little cups of oil crowded the paving stones at its base. The oldest prayers said the Stone had fallen before the first wall was built. Other prayers said it had always been there. When Nari had once asked Orem how both things could be true, he had told her that some truths concerned beginnings and others concerned obligations. She still did not know what that meant.
+
+The horns sounded before she could think about it further. Conversation faded from the terraces, priests lifted their staffs, and the city answered from below with bells, first one, then another, then seven together. Orem stepped to the counting rail and waited for the last echo to die.
+
+“First cluster.”
+
+Nari bent to the lens. For a moment there was only darkness, then the glass caught the sky and everything else disappeared. The terrace lamps, the crowd, the priests and God-Stone all fell away until there were only cold points of light spread across the blackness. The priests called the heavens testimony. Orem called them order. Nari thought of them as dependable.
+
+She found the first cluster and touched chalk to slate. Orem named the expected lights while the counters answered. Nari followed with practiced ease, shifting the instrument and marking each result. The Shepherd held above the western ridge. The Split Bowl opened northward. The Sisters kept their narrow arc. She had spent so many nights learning these patterns that her hands moved almost without instruction, one adjustment following another as naturally as the responses sounding behind her.
+
+By the seventh cluster she had settled completely into the work. Six stars sat exactly where memory placed them. The seventh did not. Nari stopped with the chalk above her slate and leaned closer to the sight. The star was there, bright and ordinary except for its position, sitting a little beyond the place fixed for it by every table she had copied and every practice count she had performed under Orem’s supervision. She shifted her eye against the leather pad and looked again. The point remained displaced by little more than a thread’s width.
+
+She was still deciding whether the error belonged to the glass or her own eye when the star drifted farther from the cluster. Nari pulled back and examined the mounting. The three alignment marks met correctly, the hanging thread remained straight, and both screws held tight when she touched them. She wiped the lens anyway and returned to the sight.
+
+“Seventh light,” Orem called.
+
+The counters answered in one voice. Nari did not.
+
+“Nari?”
+
+“I need another count.”
+
+Orem looked toward her. Several of the senior counters did the same. “The count is proceeding.”
+
+“The seventh light is out of place.”
+
+One of the men beside Orem shifted impatiently, but Orem only studied her for a moment before looking at the instrument. “Check the frame.”
+
+“I did.”
+
+“Again.”
+
+She obeyed because she wanted him to be right. A loose screw would be embarrassing. A warped bracket might cost her weeks of work. Even a cracked lens would have been easier than the possibility taking shape in her mind. She checked everything slowly, found nothing wrong, then reset the sight at the beginning of the seventh cluster and counted again. The seventh remained where it should not have been. Nari watched long enough to see it move a second time, then marked the first position and the second on her slate.
+
+She had not heard Orem’s footsteps over the chanting before he was standing beside her. “Show me.”
+
+Nari handed him the slate. Around them the High Count continued, steady enough that most of the crowd would never know anything had interrupted it. Orem studied the marks without comment.
+
+“What did I do wrong?” she asked.
+
+His eyes lifted from the slate. “Why must you have done something wrong?”
+
+“You told me to check the frame.”
+
+“I told you to check the frame.”
+
+“That isn’t the same thing.”
+
+“No.”
+
+He looked toward the lens but did not bend over it. Nari had expected irritation, perhaps a quiet correction followed by instructions to keep working. Instead she saw something tighter in his expression, less like disbelief than the careful control of a man reminded of a warning he would rather not consider.
+
+“Orem?”
+
+He turned the slate facedown in her hands. “Do not mark it again.”
+
+“Why?”
+
+“Complete the count.”
+
+“You believe me.”
+
+“I believe you observed something you cannot yet explain.”
+
+“That means the count is wrong.”
+
+“It means you do not yet know what is wrong.”
+
+Nari tried to decide whether he was correcting her or avoiding her question. He had spent years teaching her never to trust a single observation, never to force a conclusion simply because she wanted one, and ordinarily she would have agreed with him. But he was not asking her to repeat the observation or compare it with another instrument. He was asking her to stop recording it.
+
+“If there is something wrong,” she said quietly, “the others should know.”
+
+“The others will finish their work.”
+
+“And mine?”
+
+“You will finish yours.”
+
+Orem returned to the rail before she could press him further. Nari watched him go. He did not look through the lens himself, and that troubled her more than if he had laughed at the marks on her slate.
+
+She bent to the instrument again. The seventh star had shifted farther from the cluster while the other six remained fixed. Nari rested one hand against the bronze housing and waited until the movement stopped. Near the edge of the glass, the image seemed to split. A thin milk-white doubling appeared beside the seventh star, faint enough that she first blamed the lens. She shielded the glass from the terrace lamps and shifted her eye against the leather pad, but the second edge remained. When she moved the sight away from the star it weakened; when she brought the star back, it strengthened again.
+
+Curiosity pushed aside the unease in her stomach. Nari followed the change farther than any position used during the High Count. The star passed from view and the upper temple wall entered the lens, yet the pale doubling persisted. It grew strongest as the sight crossed the central terrace near the God-Stone, fading again beyond it. She returned to the seventh cluster and tried the motion once more. The same distortion strengthened over the same part of the temple, and a third, quicker check gave her the same result.
+
+She could not say what the instrument was showing her, only that the relation repeated. Nothing in the distortion resembled a sign she had been taught to read, and it did not point cleanly enough to tell her where to go. Still, when the wrong star entered one part of the sight, something around the central temple answered in another. She drew a small mark beneath the seven columns on her slate.
+
+Beneath the public terrace lay the older temple foundations and the service passages used by apprentices carrying water, oil and ash. Nari knew several of those passages well enough to walk them without a lamp. Others ended at sealed doors or stairs apprentices were ordered not to use. The passages beneath the God-Stone belonged to that second kind, and she knew where the nearest service stair began.
+
+The final bells sounded from below. Around the terrace, people relaxed and began speaking again. Priests lowered their staffs. Parents gathered sleepy children. The city had come to hear that the heavens remained where they belonged, and almost everyone would leave believing that was what had happened.
+
+Nari looked toward Orem. He was speaking with one of the senior counters, his face composed again, as if nothing unusual had happened. Perhaps in the morning he would inspect the lens, compare her marks against older records and decide what to do. That was the reasonable course. It was the course he had spent years teaching her to follow.
+
+Nari tucked the slate inside her tunic and felt its edge press against her ribs. She was frightened now in a way she had not been when she first saw the star move. Being wrong would have been humiliating, but it would have left the world unchanged.
+
+Orem had told her to stop recording what she saw. He had not told her she was mistaken.
+
+At the far end of the terrace a prayer screen hid the entrance to a narrow service stair. Nari waited until Orem turned away, then crossed behind the screen and began to descend.
