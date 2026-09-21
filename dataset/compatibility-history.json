@@ -1,0 +1,22 @@
+[
+  {
+    "source_realization": {
+      "schema": "legacy_unversioned_v0",
+      "ruleset_binding": "absent"
+    },
+    "target_realization": {
+      "schema": {
+        "id": "adr-story-writer.dataset",
+        "version": 1
+      },
+      "ruleset_binding": {
+        "application": "adr-story-writer",
+        "component": "ruleset",
+        "version": "0.3.0"
+      }
+    },
+    "operation": "migration:legacy-unversioned-v0-to-dataset-v1",
+    "unresolved_decisions_or_losses": [],
+    "semantic_author_decision_required": false
+  }
+]
