@@ -1,0 +1,31 @@
+{
+  "STYLE-000001": {
+    "id": "STYLE-000001",
+    "surface": "prose.style_profile",
+    "authority_class": "production_candidate",
+    "revision": "style-d925ea8a72d38612bc7a",
+    "guidance": {
+      "viewpoint": "Third-person limited, past tense, closely anchored to the active viewpoint character.",
+      "narrative_distance": "Close-to-medium. Permit direct interior thought, reasoning, uncertainty, memory, and explicitly recognized emotion.",
+      "diction": "Accessible, concrete fantasy prose with predominantly plainspoken contemporary readability. Avoid unnecessarily ornate or conspicuously literary diction.",
+      "sentence_rhythm": "Favor conventional complete sentences with natural variation. Permit longer reflective passages when the viewpoint character is reasoning through events; use fragments selectively rather than as an intensity default.",
+      "paragraphing": "Allow substantial paragraphs for connected observation or interior reasoning, balanced with shorter dialogue and action paragraphs.",
+      "description": "Use concrete sensory, spatial, and physical details selected through viewpoint. Employ occasional straightforward simile or metaphor without saturating the prose in figurative language.",
+      "interiority": "Make character reasoning a substantial part of the prose. Permit explicit questions, competing explanations, reconsideration, uncertainty, and direct recognition of feelings.",
+      "dialogue": "Keep dialogue direct, informal where appropriate, and character-specific. Allow hesitation, repetition, interruption, irritation, humor, incomplete thoughts, and imperfect phrasing rather than polishing every utterance.",
+      "action": "Render physical action chronologically and spatially clearly. Emphasize understandable movement, cause, and consequence over rapid cinematic fragments.",
+      "emotion": "Emotional states may sometimes be stated directly. Do not require emotion to be encoded exclusively through gestures or automatic physiological reactions.",
+      "pacing": "Permit alternation between concrete action or dialogue and sustained reflection. Do not force uniformly rapid scene pacing.",
+      "tone": "Earnest, immersive, character-centered storytelling. Prefer readable narrative immediacy over detached literary display.",
+      "normalization": "Do not reproduce spelling errors, grammatical accidents, continuity slips, or other obvious drafting defects from source samples."
+    },
+    "source_samples": [
+      {"kind": "google_drive_file", "reference": "1cCq0oks0O9qggBBBi9NXPuCsRpnegfKt", "label": "In a dragon's dreams — ch01_s01.docx"},
+      {"kind": "google_drive_file", "reference": "1lxiEgmViqei55PseF-lsYpoQNmvBAfhn", "label": "In a dragon's dreams — ch01_s02.docx"},
+      {"kind": "google_drive_file", "reference": "15H_1rntFVQsIvWI-WZ7h_UOEG1QE_KDa", "label": "In a dragon's dreams — ch01_s03.docx"},
+      {"kind": "google_drive_file", "reference": "1PWj4oASpNYSnKsmEPPnXwg73-IWVzrOh", "label": "In a dragon's dreams — ch08_s02.docx"},
+      {"kind": "google_drive_file", "reference": "1izphyoQiu4sNbs1V0YDlgeVvipNv3adP", "label": "In a dragon's dreams — ch16_s01.docx"},
+      {"kind": "google_drive_file", "reference": "1s8MTVYL8eMCzqTf8qTQZrWW4Ty5iOY39", "label": "In a dragon's dreams — ch16_s02.docx"}
+    ]
+  }
+}
