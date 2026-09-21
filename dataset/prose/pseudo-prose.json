@@ -68,13 +68,13 @@
         "unit_id": "PPLU-008",
         "primary_mode": "action",
         "beat_label": "Choice to descend",
-        "content_movement": "Nari leaves the public ritual space for the forbidden way because not knowing pulls harder than fear, even though she no longer mistakes curiosity for safety.",
+        "content_movement": "Nari leaves the public ritual space for the forbidden way because not knowing pulls harder than fear.",
         "emotional_register": "fear, isolation, compulsion to know",
         "transition_role": "scene_exit"
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 3,
+    "legacy_revision": 4,
     "candidate_status": "candidate",
     "target_scope": "SCN-000001",
     "dependencies": [
@@ -102,7 +102,7 @@
         "material": true
       }
     ],
-    "revision": "author-revision-1"
+    "revision": "author-revision-2"
   },
   "PPL-000002": {
     "id": "PPL-000002",
@@ -262,7 +262,7 @@
         "unit_id": "PPLU-023",
         "primary_mode": "internal",
         "beat_label": "Orem's cost",
-        "content_movement": "Nari perceives remorse in Orem: caution may have protected him and others, but he cannot know what decades of refusal kept him from learning.",
+        "content_movement": "Nari perceives remorse in Orem: caution may have protected him and others, but he cannot know what his refusal to keep asking may have kept him from learning.",
         "emotional_register": "compassion without agreement",
         "transition_role": "ordered_scene_progression"
       },
@@ -278,7 +278,7 @@
         "unit_id": "PPLU-025",
         "primary_mode": "internal",
         "beat_label": "Curiosity's cost",
-        "content_movement": "Nari hesitates. For the first time she fully feels that a discoverable fact can still be dangerous, and that gaining knowledge does not guarantee the capacity to use or survive it wisely.",
+        "content_movement": "Nari hesitates. For the first time she fully feels that a discoverable fact can still be dangerous, and that gaining knowledge does not guarantee the capacity to understand its consequences or respond to them wisely.",
         "emotional_register": "fear without retreat",
         "transition_role": "ordered_scene_progression"
       },
@@ -318,13 +318,13 @@
         "unit_id": "PPLU-030",
         "primary_mode": "exposition",
         "beat_label": "Final image",
-        "content_movement": "End on the answering light and altered correspondence rather than an explanatory conclusion. The universe has answered in some sense, but the answer does not fit inside the human question.",
+        "content_movement": "End on the answering light and altered correspondence rather than an explanatory conclusion. An answer has occurred, but it does not fit inside the human question.",
         "emotional_register": "luminous incomprehension",
         "transition_role": "scene_exit"
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 2,
+    "legacy_revision": 3,
     "candidate_status": "candidate",
     "target_scope": "SCN-000003",
     "dependencies": [
@@ -352,6 +352,6 @@
         "material": true
       }
     ],
-    "revision": "author-revision-1"
+    "revision": "author-revision-2"
   }
 }
