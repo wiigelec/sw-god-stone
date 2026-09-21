@@ -5,98 +5,104 @@
     "authority_class": "production_candidate",
     "layout_status": "ready_for_generation_package",
     "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
-    "opening_shape": "public sacred order viewed through apprentice precision",
-    "closing_shape": "private resolve to enter forbidden lower temple beneath the God-Stone",
+    "opening_shape": "tight focus on Nari's apprentice work widening through nearby ritual, terrace, city, God-Stone, and finally the ordered sky",
+    "closing_shape": "fearful curiosity carrying Nari toward the forbidden lower temple",
     "units": [
       {
         "unit_id": "PPLU-001",
-        "primary_mode": "description",
-        "beat_label": "Public sacred order",
-        "content_movement": "Establish upper temple terraces around the public sacred presence of the God-Stone, crowd, lamps, carved star-maps, polished lens, bronze rod, and Master Orem with the senior counter-priests.",
-        "emotional_register": "reverence",
+        "primary_mode": "action",
+        "beat_label": "Hands at work",
+        "content_movement": "Open tightly on Nari's immediate physical work: fingers, slate, lens cloth, breath, and the exact motions required of a skilled apprentice. Keep the wider temple-city mostly outside the frame except for what directly touches her task.",
+        "emotional_register": "focused precision",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-002",
-        "primary_mode": "action/internal perception",
-        "beat_label": "Apprentice at work",
-        "content_movement": "Show Nari polishing lens, handling slate dust and tablet, marking the count, and confirming ritual measures with skilled low-status precision.",
-        "emotional_register": "focused pride under restraint",
+        "primary_mode": "exposition",
+        "beat_label": "World widens",
+        "content_movement": "Widen outward through what Nari notices while working: Orem and the nearby counters, ritual voices and lamps, the terrace and crowd, the temple-city, the public presence of the God-Stone, and only then the ordered sky the High Count is meant to confirm. Establish the inherited system's reliability through this expanding field rather than through an opening panorama.",
+        "emotional_register": "focused belonging widening into reverent confidence",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-003",
-        "primary_mode": "dialogue/description",
-        "beat_label": "Expected sky-count",
-        "content_movement": "Master Orem names the expected lights and the crowd answers, creating the ceremonial assumption that sacred sky order remains intact.",
-        "emotional_register": "calm ceremony",
+        "primary_mode": "internal",
+        "beat_label": "First wrongness",
+        "content_movement": "Once the narrative has widened fully into the ordered sky, snap attention back through the lens to Nari as the seventh star in the seventh cluster behaves wrongly. Her first response is intimate and practical: she suspects her eyes, the smoke, the lens, or her own count.",
+        "emotional_register": "self-doubt and sudden isolation",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-004",
-        "primary_mode": "internal perception/description",
-        "beat_label": "First wrongness",
-        "content_movement": "Nari sees the seventh star in the seventh cluster blink, shift, or hold wrong against the accepted count and first doubts smoke, tired eyes, or lens flaw.",
-        "emotional_register": "uncertainty",
+        "primary_mode": "action",
+        "beat_label": "Verification",
+        "content_movement": "Nari cleans and checks the lens, repeats the count, compares the result, and records the repeated anomaly on her slate.",
+        "emotional_register": "unease becoming fear",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-005",
-        "primary_mode": "action/internal perception",
-        "beat_label": "Verification and witness",
-        "content_movement": "Nari cleans, checks, measures, counts again, and preserves the repeated anomaly on her slate as witnessed truth rather than panic or omen.",
-        "emotional_register": "unease becoming alarm",
+        "primary_mode": "dialogue",
+        "beat_label": "Orem's refusal",
+        "content_movement": "Nari brings Orem the observation. His reaction shows recognition and fear beneath disciplined authority; he suppresses the warning without needing to deny that she observed something real.",
+        "emotional_register": "contained alarm",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-006",
-        "primary_mode": "dialogue/action",
-        "beat_label": "Suppressed warning",
-        "content_movement": "Nari quietly warns Master Orem; he recognizes danger and silences her from office, fear, and inherited warning rather than simple disbelief or melodrama.",
-        "emotional_register": "fear under discipline",
-        "transition_role": "ordered_scene_progression"
-      },
-      {
-        "unit_id": "PPLU-007",
-        "primary_mode": "internal perception",
-        "beat_label": "Pattern recognized",
-        "content_movement": "Nari recognizes measured counting and the seven-and-seven correspondence rather than wild omen, while understanding that the warning has been suppressed.",
-        "emotional_register": "forbidden comprehension",
-        "transition_role": "ordered_scene_progression"
-      },
-      {
-        "unit_id": "PPLU-008",
-        "primary_mode": "description/action",
-        "beat_label": "The lens responds",
-        "content_movement": "The old lens reveals a pale alignment from the wrong seventh star toward the lower temple beneath the God-Stone.",
+        "primary_mode": "exposition",
+        "beat_label": "Correspondence",
+        "content_movement": "The lens reveals a repeatable alignment or correspondence between the wrong-moving star and the forbidden lower temple beneath the God-Stone without suggesting why the relation exists.",
         "emotional_register": "awe and dread",
         "transition_role": "ordered_scene_progression"
       },
       {
-        "unit_id": "PPLU-009",
-        "primary_mode": "internal decision/action",
-        "beat_label": "Choice to descend",
-        "content_movement": "Nari chooses private investigation and leaves ritual light for the forbidden way toward the lower temple beneath the God-Stone.",
-        "emotional_register": "fear, resolve, isolation",
+        "unit_id": "PPLU-007",
+        "primary_mode": "internal",
+        "beat_label": "A question without a model",
+        "content_movement": "Nari recognizes that disciplined observation has produced something her inherited explanation cannot contain. She does not replace it with a new explanation.",
+        "emotional_register": "fearful wonder",
         "transition_role": "ordered_scene_progression"
+      },
+      {
+        "unit_id": "PPLU-008",
+        "primary_mode": "action",
+        "beat_label": "Choice to descend",
+        "content_movement": "Nari leaves the public ritual space for the forbidden way because not knowing pulls harder than fear.",
+        "emotional_register": "fear, isolation, compulsion to know",
+        "transition_role": "scene_exit"
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 2,
+    "legacy_revision": 5,
     "candidate_status": "candidate",
     "target_scope": "SCN-000001",
     "dependencies": [
-      "SCN-000001"
+      "SCN-000001",
+      "BEATS-SCN-000001",
+      "MODES-SCN-000001"
     ],
     "dependency_relations": [
       {
         "target_id": "SCN-000001",
-        "target_revision": "imported-revision-d3fd920308984dfc18bf",
+        "target_revision": "author-revision-1",
+        "authority_basis": "accepted",
+        "material": true
+      },
+      {
+        "target_id": "BEATS-SCN-000001",
+        "target_revision": "author-revision-1",
+        "authority_basis": "candidate",
+        "material": true
+      },
+      {
+        "target_id": "MODES-SCN-000001",
+        "target_revision": "author-revision-1",
         "authority_basis": "candidate",
         "material": true
       }
     ],
-    "revision": "imported-revision-1f2add1330a459143b89"
+    "revision": "author-revision-3"
   },
   "PPL-000002": {
     "id": "PPL-000002",
@@ -104,98 +110,112 @@
     "authority_class": "production_candidate",
     "layout_status": "ready_for_generation_package",
     "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
-    "opening_shape": "empty temple after failed public ritual",
-    "closing_shape": "Nari discovered by Master Orem as the chamber answers below",
+    "opening_shape": "Nari follows verified evidence into a place her inherited categories cannot adequately describe",
+    "closing_shape": "repeatable response has increased knowledge while reducing confidence in comprehension",
     "units": [
       {
         "unit_id": "PPLU-010",
-        "primary_mode": "description",
-        "beat_label": "Aftermath of failed High Count",
-        "content_movement": "Establish emptied upper temple, guttering lamps, ritual shame, and Nari hiding with evidence.",
-        "emotional_register": "quiet dread",
+        "primary_mode": "internal",
+        "beat_label": "Descent under uncertainty",
+        "content_movement": "Nari remains after the failed High Count with the slate evidence. She is afraid of sacrilege and of being right, but follows the correspondence rather than framing the choice as truth against obedience.",
+        "emotional_register": "quiet dread and compulsion",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-011",
-        "primary_mode": "internal perception",
-        "beat_label": "Decision pressure",
-        "content_movement": "Nari chooses pattern-truth over obedience while remaining frightened of sacrilege.",
-        "emotional_register": "disciplined fear",
-        "transition_role": "ordered_scene_progression"
-      },
-      {
-        "unit_id": "PPLU-012",
         "primary_mode": "action",
-        "beat_label": "Service way entry",
-        "content_movement": "Nari uses apprentice knowledge to enter the forbidden service path behind the prayer-screen.",
+        "beat_label": "Service way",
+        "content_movement": "Nari uses ordinary apprentice knowledge to enter the forbidden service route; familiar competence carries her only to the boundary of the unfamiliar.",
         "emotional_register": "furtive competence",
         "transition_role": "ordered_scene_progression"
       },
       {
+        "unit_id": "PPLU-012",
+        "primary_mode": "exposition",
+        "beat_label": "Categories fail",
+        "content_movement": "Stonework and temple forms give way gradually to surfaces, regularities, and precision that Nari can describe but cannot fit comfortably into her concepts of craft or sacred architecture.",
+        "emotional_register": "uncanny dislocation",
+        "transition_role": "ordered_scene_progression"
+      },
+      {
         "unit_id": "PPLU-013",
-        "primary_mode": "description/internal perception",
-        "beat_label": "Architecture becomes wrong",
-        "content_movement": "Temple stone gradually shifts into too-regular, too-smooth, count-like forms.",
-        "emotional_register": "uncanny recognition",
+        "primary_mode": "action",
+        "beat_label": "Underside observed",
+        "content_movement": "Nari encounters the lower presence of the God-Stone and records concrete features and correspondences, resisting the urge to decide what the thing is.",
+        "emotional_register": "awe and restraint",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-014",
-        "primary_mode": "action",
-        "beat_label": "First response",
-        "content_movement": "Nari whispers a threshold/count phrase and a small light answers inside the dark surface.",
-        "emotional_register": "shock",
+        "primary_mode": "exposition",
+        "beat_label": "Broken count",
+        "content_movement": "Light, spacing, silence, or another observable feature repeats the broken seven-and-seven rhythm associated with the wrong-moving star.",
+        "emotional_register": "recognition and dread",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-015",
-        "primary_mode": "description",
-        "beat_label": "Underside of the God-Stone",
-        "content_movement": "Reveal lower chamber and the God-Stone from below as something not fully stone, layered with offerings and prayers.",
-        "emotional_register": "awe and category failure",
+        "primary_mode": "action",
+        "beat_label": "Deliberate test",
+        "content_movement": "Nari repeats one controlled observation or action and receives the same bounded response again. Keep the act simple enough to establish reproducibility without implying she has discovered a command language.",
+        "emotional_register": "tense concentration",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-016",
-        "primary_mode": "internal perception/action",
-        "beat_label": "Broken count response",
-        "content_movement": "Nari counts; the chamber pulses in the same broken rhythm as the wrong-moving star.",
+        "primary_mode": "internal",
+        "beat_label": "Success is worse",
+        "content_movement": "The repeated result frightens Nari more than failure would have. She now knows the phenomenon is responsive in some reliable way while knowing no more about what it is.",
         "emotional_register": "terrible verification",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-017",
-        "primary_mode": "description/internal perception",
-        "beat_label": "Sky below stone",
-        "content_movement": "The underside shows the star pattern and the wrong star moving within it.",
-        "emotional_register": "cosmic dread in bounded understanding",
+        "primary_mode": "internal",
+        "beat_label": "Knowledge without comprehension",
+        "content_movement": "Nari recognizes the unsettling possibility that careful human methods can yield useful patterns while the reality producing those patterns remains beyond the mind that discovered them.",
+        "emotional_register": "epistemic vertigo",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-018",
-        "primary_mode": "action/dialogue",
-        "beat_label": "Human pressure returns",
-        "content_movement": "Footsteps descend and Master Orem calls Nari by name as the chamber answers again.",
-        "emotional_register": "danger and unresolved consequence",
+        "primary_mode": "dialogue",
+        "beat_label": "Orem approaches",
+        "content_movement": "Footsteps descend and Orem calls Nari by name while the chamber responds again, joining his human fear to the incomprehensible phenomenon without explaining either.",
+        "emotional_register": "dread and unresolved consequence",
         "transition_role": "scene_exit"
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 1,
+    "legacy_revision": 2,
     "candidate_status": "candidate",
     "target_scope": "SCN-000002",
     "dependencies": [
-      "SCN-000002"
+      "SCN-000002",
+      "BEATS-SCN-000002",
+      "MODES-SCN-000002"
     ],
     "dependency_relations": [
       {
         "target_id": "SCN-000002",
-        "target_revision": "imported-revision-ab913e730324ca058948",
+        "target_revision": "author-revision-1",
+        "authority_basis": "accepted",
+        "material": true
+      },
+      {
+        "target_id": "BEATS-SCN-000002",
+        "target_revision": "author-revision-1",
+        "authority_basis": "candidate",
+        "material": true
+      },
+      {
+        "target_id": "MODES-SCN-000002",
+        "target_revision": "author-revision-1",
         "authority_basis": "candidate",
         "material": true
       }
     ],
-    "revision": "imported-revision-993d90dbdb91ccf4c7cc"
+    "revision": "author-revision-1"
   },
   "PPL-000003": {
     "id": "PPL-000003",
@@ -203,97 +223,135 @@
     "authority_class": "production_candidate",
     "layout_status": "ready_for_generation_package",
     "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
-    "opening_shape": "lower chamber continuation with Orem calling Nari and the God-Stone still answering",
-    "closing_shape": "answering light arrives and leaves the wrong star no longer alone",
+    "opening_shape": "two human responses to the unknowable meet inside an active phenomenon neither can explain",
+    "closing_shape": "answering light leaves both characters with more evidence and less confidence that evidence can become comprehension",
     "units": [
       {
         "unit_id": "PPLU-019",
-        "primary_mode": "description",
-        "beat_label": "Active chamber opening",
-        "content_movement": "Re-anchor lower chamber, God-Stone glow, broken count, and Orem voice from above.",
-        "emotional_register": "tense and luminous",
+        "primary_mode": "exposition",
+        "beat_label": "Active chamber",
+        "content_movement": "Re-anchor the lower chamber in the continuing broken count and Orem's arrival. The phenomenon proceeds regardless of the human disagreement around it.",
+        "emotional_register": "inescapable pressure",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-020",
-        "primary_mode": "action/internal perception",
-        "beat_label": "Orem enters",
-        "content_movement": "Orem appears at threshold; Nari realizes he is not surprised and reads old fear beneath control.",
+        "primary_mode": "action",
+        "beat_label": "Orem at the threshold",
+        "content_movement": "Orem enters or blocks the threshold as someone attempting to prevent consequences he cannot describe with certainty. Nari sees recognition and old fear rather than a simple antagonist's refusal.",
         "emotional_register": "controlled dread",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-021",
         "primary_mode": "dialogue",
-        "beat_label": "Truth versus obedience",
-        "content_movement": "Orem tells her to come away; Nari answers from the star, broken count, and chamber response.",
-        "emotional_register": "respect breaking into defiance",
+        "beat_label": "Observation without explanation",
+        "content_movement": "Nari gives Orem the observations she repeated: star, count, chamber, response. She does not claim to know what the God-Stone is doing or what the response means.",
+        "emotional_register": "urgent restraint",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-022",
-        "primary_mode": "description",
-        "beat_label": "Count continues",
-        "content_movement": "The chamber pulses seven, fourteen, broken pause, and waiting beat underneath the dialogue.",
-        "emotional_register": "inescapable pressure",
+        "primary_mode": "dialogue",
+        "beat_label": "Questions abandoned",
+        "content_movement": "Orem reveals enough of earlier encounters or inherited experience to show that he once followed anomalous questions farther than he does now, and that fear progressively narrowed what he permitted himself to seek.",
+        "emotional_register": "sorrow and guarded fear",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-023",
-        "primary_mode": "dialogue/internal perception",
-        "beat_label": "Orem partial warning",
-        "content_movement": "Orem reveals inherited fear and restraint but not the builders or mechanism.",
-        "emotional_register": "sorrowful fear",
+        "primary_mode": "internal",
+        "beat_label": "Orem's cost",
+        "content_movement": "Nari perceives remorse in Orem: caution may have protected him and others, but he cannot know what his refusal to keep asking may have kept him from learning.",
+        "emotional_register": "compassion without agreement",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-024",
-        "primary_mode": "action",
-        "beat_label": "Nari chooses",
-        "content_movement": "Nari moves toward completion with slate/count/touch while Orem tries to stop her.",
-        "emotional_register": "frightened decisiveness",
+        "primary_mode": "exposition",
+        "beat_label": "The phenomenon continues",
+        "content_movement": "The broken count advances through observable changes in chamber, God-Stone, and sky while neither character can fit those changes into a causal model.",
+        "emotional_register": "cosmic pressure",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-025",
-        "primary_mode": "description",
-        "beat_label": "Answering light",
-        "content_movement": "Light rises through ringed floor, God-Stone, temple, and sky correspondence.",
-        "emotional_register": "awe and terror",
-        "transition_role": "climax"
+        "primary_mode": "internal",
+        "beat_label": "Curiosity's cost",
+        "content_movement": "Nari hesitates. For the first time she fully feels that a discoverable fact can still be dangerous, and that gaining knowledge does not guarantee the capacity to understand its consequences or respond to them wisely.",
+        "emotional_register": "fear without retreat",
+        "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-026",
-        "primary_mode": "internal perception",
-        "beat_label": "Minimum understanding",
-        "content_movement": "Nari understands answer is real and temple was listening bowl, without knowing who or what answered.",
-        "emotional_register": "bounded revelation",
+        "primary_mode": "dialogue",
+        "beat_label": "No safe answer",
+        "content_movement": "Between what they observe and what Orem remembers, neither can establish that stopping the pattern is safer than allowing it to continue. Avoid turning this into a philosophical debate; uncertainty should arise from the immediate situation.",
+        "emotional_register": "helpless uncertainty",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-027",
-        "primary_mode": "description/action",
+        "primary_mode": "action",
+        "beat_label": "Nari permits the pattern",
+        "content_movement": "Nari completes or permits the next observed step without treating the choice as courageous proof or intellectual victory. She acts while knowing she may be making a mistake.",
+        "emotional_register": "frightened commitment",
+        "transition_role": "ordered_scene_progression"
+      },
+      {
+        "unit_id": "PPLU-028",
+        "primary_mode": "exposition",
+        "beat_label": "Answering light",
+        "content_movement": "The God-Stone, lower chamber, and wrong-moving star enter synchronized correspondence and the answering light comes. Render response as undeniable while leaving source, agency, purpose, mechanism, and consequence unclassified.",
+        "emotional_register": "awe and terror",
+        "transition_role": "climax"
+      },
+      {
+        "unit_id": "PPLU-029",
+        "primary_mode": "internal",
+        "beat_label": "Human limits",
+        "content_movement": "Nari's observations have become richer and her explanation poorer. Orem sees the cost of turning away; Nari sees the cost of continuing. Neither acquires the perspective needed to know the proper balance.",
+        "emotional_register": "humility and dread",
+        "transition_role": "ordered_scene_progression"
+      },
+      {
+        "unit_id": "PPLU-030",
+        "primary_mode": "exposition",
         "beat_label": "Final image",
-        "content_movement": "Orem’s authority cracks; white light touches Nari; wrong star is no longer alone.",
-        "emotional_register": "luminous unresolved consequence",
+        "content_movement": "End on the answering light and altered correspondence rather than an explanatory conclusion. An answer has occurred, but it does not fit inside the human question.",
+        "emotional_register": "luminous incomprehension",
         "transition_role": "scene_exit"
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 1,
+    "legacy_revision": 3,
     "candidate_status": "candidate",
     "target_scope": "SCN-000003",
     "dependencies": [
-      "SCN-000003"
+      "SCN-000003",
+      "BEATS-SCN-000003",
+      "MODES-SCN-000003"
     ],
     "dependency_relations": [
       {
         "target_id": "SCN-000003",
-        "target_revision": "imported-revision-e33c0973ac820cc283f3",
+        "target_revision": "author-revision-2",
+        "authority_basis": "accepted",
+        "material": true
+      },
+      {
+        "target_id": "BEATS-SCN-000003",
+        "target_revision": "author-revision-1",
+        "authority_basis": "candidate",
+        "material": true
+      },
+      {
+        "target_id": "MODES-SCN-000003",
+        "target_revision": "author-revision-1",
         "authority_basis": "candidate",
         "material": true
       }
     ],
-    "revision": "imported-revision-d60c6801123baaac1517"
+    "revision": "author-revision-2"
   }
 }

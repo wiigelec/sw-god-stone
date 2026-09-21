@@ -158,5 +158,48 @@
     },
     "legacy_revision": 2,
     "revision": "imported-revision-b99ce94cb79c608feaf1"
+  },
+  "AC-000013": {
+    "id": "AC-000013",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The builders’ technology is fundamentally beyond human cognitive comprehension. Humans can observe it, interact with it, and learn limited reliable operational patterns, but its underlying principles exceed the representational capacity of the human mind.",
+    "open_question_refs": [
+      "OQ-000002"
+    ],
+    "provenance": {
+      "source": "author_acceptance",
+      "accepted_date": "2026-09-21",
+      "note": "Accepted during Canon consolidation."
+    },
+    "revision": "author-revision-1"
+  },
+  "AC-000014": {
+    "id": "AC-000014",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The builders are not adequately describable by ordinary human categories such as organism, body, species, personhood, biological, artificial, physical, individual, or collective. Humans may use such categories provisionally, but whether they meaningfully apply to the builders is beyond human comprehension.",
+    "open_question_refs": [
+      "OQ-000001"
+    ],
+    "provenance": {
+      "source": "author_acceptance",
+      "accepted_date": "2026-09-21",
+      "note": "Accepted during Canon consolidation."
+    },
+    "revision": "author-revision-1"
+  },
+  "AC-000015": {
+    "id": "AC-000015",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "Human cognition is fundamentally limited: human beings can construct useful, predictive models of reality without being capable of comprehending reality at its deepest level. Successful explanation or prediction does not establish ultimate understanding.",
+    "open_question_refs": [],
+    "provenance": {
+      "source": "author_acceptance",
+      "accepted_date": "2026-09-21",
+      "note": "Accepted thematic ontology during Canon consolidation."
+    },
+    "revision": "author-revision-1"
   }
 }

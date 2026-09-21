@@ -48,5 +48,32 @@
       "Generated scene prose was not accepted in the source workspace and therefore was not promoted into dataset/chapters; exact source candidates are archived outside Dataset authority under legacy-candidates/."
     ],
     "semantic_author_decision_required": false
+  },
+  {
+    "source_realization": {
+      "schema": {
+        "id": "adr-story-writer.dataset",
+        "version": 1
+      },
+      "ruleset_binding": {
+        "application": "adr-story-writer",
+        "component": "ruleset",
+        "version": "0.3.0"
+      }
+    },
+    "target_realization": {
+      "schema": {
+        "id": "adr-story-writer.dataset",
+        "version": 1
+      },
+      "ruleset_binding": {
+        "application": "adr-story-writer",
+        "component": "ruleset",
+        "version": "0.4.0"
+      }
+    },
+    "operation": "rebinding:ruleset-0.3.0-to-0.4.0",
+    "unresolved_decisions_or_losses": [],
+    "semantic_author_decision_required": false
   }
 ]

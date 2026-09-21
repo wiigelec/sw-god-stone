@@ -2,42 +2,46 @@
   {
     "id": "SCN-000001",
     "surface": "plot.sequence",
-    "authority_class": "candidate_semantic",
+    "authority_class": "accepted_semantic",
     "title": "The Star That Moved Wrong",
     "ordinal": 1,
-    "purpose": "Scene 1 establishes ritual order, Nari’s skilled low-status viewpoint, the seventh-star anomaly, Master Orem’s suppression, the slate as witness, and the lower-temple implication.",
+    "purpose": "Scene 1 establishes ritual order, Nari’s youthful curiosity, Orem’s accumulated attachment to established truths, and the first anomaly that neither character can comfortably absorb into the inherited model.",
     "setting": "upper terraces of the temple-city during the High Count",
     "legacy_status": "accepted_for_scene1_generation",
-    "legacy_revision": 2,
-    "candidate_status": "candidate",
+    "legacy_revision": 3,
     "viewpoint": "AC-000003",
-    "entry": "city believes the sky-count order is intact",
-    "exit": "Nari realizes the anomaly points toward the forbidden lower temple",
+    "entry": "the city, Nari, and Orem expect the High Count to confirm the inherited sky order",
+    "exit": "after repeated verification, Nari observes a reproducible correspondence between the anomaly and the forbidden lower temple and chooses to investigate despite fear",
     "required_movements": [
-      "public sky-count",
-      "Nari performs skilled apprentice work",
+      "public High Count establishes an inherited system that has long appeared reliable",
+      "Nari performs skilled apprentice work within that system",
       "the seventh star in the seventh cluster behaves in measured wrongness",
-      "Nari verifies the anomaly on her slate",
-      "Master Orem suppresses warning",
-      "lens links anomaly to lower temple",
-      "Nari chooses to investigate"
+      "afraid the error may be hers, Nari checks the lens, repeats the count, and verifies the anomaly on her slate",
+      "Orem recognizes the anomaly as dangerous and suppresses the warning from experience, responsibility, and fear rather than simple disbelief",
+      "the lens reveals a repeatable correspondence between the anomaly and the forbidden lower temple without explaining causation",
+      "Nari feels genuine fear but chooses investigation because curiosity still outweighs it"
     ],
     "dependencies": [
       "AC-000003",
-      "AC-000011"
+      "AC-000011",
+      "AC-000016",
+      "AC-000017",
+      "AC-000015"
     ],
     "reader_information": {
       "may_reveal": [
-        "public sky-count",
-        "Nari performs skilled apprentice work",
+        "public High Count establishes an inherited system that has long appeared reliable",
+        "Nari performs skilled apprentice work within that system",
         "the seventh star in the seventh cluster behaves in measured wrongness",
-        "Nari verifies the anomaly on her slate",
-        "Master Orem suppresses warning",
-        "lens links anomaly to lower temple",
-        "Nari chooses to investigate"
+        "afraid the error may be hers, Nari checks the lens, repeats the count, and verifies the anomaly on her slate",
+        "Orem recognizes the anomaly as dangerous and suppresses the warning from experience, responsibility, and fear rather than simple disbelief",
+        "the lens reveals a repeatable correspondence between the anomaly and the forbidden lower temple without explaining causation",
+        "Nari feels genuine fear but chooses investigation because curiosity still outweighs it"
       ],
       "must_conceal": [
         "preserve cosmic mystery",
+        "do not establish that Nari understands what causes the correspondence",
+        "keep Orem’s formative history unresolved",
         "keep the sacred light within Nari’s pre-technological understanding",
         "keep the mechanism purpose unresolved"
       ]
@@ -61,48 +65,57 @@
         }
       ]
     },
-    "revision": "imported-revision-d3fd920308984dfc18bf"
+    "revision": "author-revision-1"
   },
   {
     "id": "SCN-000002",
     "surface": "plot.sequence",
-    "authority_class": "candidate_semantic",
+    "authority_class": "accepted_semantic",
     "title": "Beneath the God-Stone",
     "ordinal": 2,
-    "purpose": "Scene 2 carries Nari from private resolve into forbidden descent and discovery that the God-Stone hides a lower presence connected to the wrong-moving star.",
+    "purpose": "Scene 2 rewards and punishes Nari’s curiosity: she discovers repeatable correspondences that show the inherited model is incomplete, while the scale and strangeness of what she encounters deepen her fear and deny her a replacement explanation.",
     "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone after the failed High Count",
     "legacy_status": "accepted_for_scene2_generation",
-    "legacy_revision": 3,
-    "candidate_status": "candidate",
+    "legacy_revision": 4,
     "viewpoint": "AC-000003",
-    "entry": "Nari has realized the anomaly points toward the forbidden lower temple and chooses private investigation after Master Orem suppresses the warning.",
-    "exit": "Nari discovers the lower temple is active and connected to the wrong-moving star; Master Orem calls to her from above as the chamber answers beneath her feet.",
+    "entry": "Nari follows the verified lower-temple correspondence in secret, curious enough to proceed but increasingly afraid of what confirmation may mean",
+    "exit": "Nari has established that the lower chamber, God-Stone, and sky anomaly participate in the same repeatable pattern, but she understands the phenomenon less rather than more; Orem calls from above as the chamber responds in a way she cannot explain",
     "required_movements": [
-      "Nari remains after the failed High Count and chooses secrecy over obedience",
-      "Nari enters a forbidden service way using apprentice knowledge",
-      "familiar temple architecture shifts into uncanny precision",
-      "Nari discovers the underside of the God-Stone",
-      "the chamber echoes the broken seven-and-seven count signaled by the wrong-moving star",
-      "human danger intrudes from above",
-      "Nari exits the scene with partial truth and unresolved danger"
+      "Nari remains after the failed High Count and chooses inquiry over obedience while acknowledging her fear",
+      "Nari enters a forbidden service way using ordinary apprentice knowledge",
+      "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+      "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+      "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+      "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+      "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+      "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+      "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
     ],
     "dependencies": [
       "AC-000003",
-      "AC-000011"
+      "AC-000011",
+      "AC-000013",
+      "AC-000014",
+      "AC-000015",
+      "AC-000016",
+      "AC-000017"
     ],
     "reader_information": {
       "may_reveal": [
-        "Nari remains after the failed High Count and chooses secrecy over obedience",
-        "Nari enters a forbidden service way using apprentice knowledge",
-        "familiar temple architecture shifts into uncanny precision",
-        "Nari discovers the underside of the God-Stone",
-        "the chamber echoes the broken seven-and-seven count signaled by the wrong-moving star",
-        "human danger intrudes from above",
-        "Nari exits the scene with partial truth and unresolved danger"
+        "Nari remains after the failed High Count and chooses inquiry over obedience while acknowledging her fear",
+        "Nari enters a forbidden service way using ordinary apprentice knowledge",
+        "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+        "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+        "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+        "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+        "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+        "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+        "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
       ],
       "must_conceal": [
         "preserve the mystery of the builders",
-        "keep the mechanism purpose unresolved",
+        "do not classify the God-Stone or lower chamber by true function",
+        "keep all mechanism labels provisional from Nari’s perspective",
         "keep Master Orem’s knowledge partial",
         "preserve the final answering-light consequence for Scene 3",
         "preserve pre-technological viewpoint vocabulary"
@@ -127,52 +140,70 @@
         }
       ]
     },
-    "revision": "imported-revision-ab913e730324ca058948"
+    "revision": "author-revision-1"
   },
   {
     "id": "SCN-000003",
     "surface": "plot.sequence",
-    "authority_class": "candidate_semantic",
+    "authority_class": "accepted_semantic",
     "title": "The Answering Light",
     "ordinal": 3,
-    "purpose": "Scene 3 resolves the three-scene arc through confrontation, choice, seven-and-seven completion, and the answering light.",
+    "purpose": "Scene 3 confronts curiosity with fear without declaring either sufficient. Fear can protect by restricting exposure but also restrict knowledge; curiosity can expand knowledge but also reveal things whose consequences may exceed human understanding. Orem and Nari each glimpse the cost of their own extreme without reaching the balance between them.",
     "setting": "lower temple chamber beneath the God-Stone, continuing directly from Scene 2",
     "legacy_status": "accepted_for_scene3_generation",
-    "legacy_revision": 3,
-    "candidate_status": "candidate",
+    "legacy_revision": 5,
     "viewpoint": "AC-000003",
-    "entry": "Nari is in the awakened lower chamber after Master Orem calls her name and the chamber answers beneath her feet.",
-    "exit": "Nari completes or permits the broken seven-and-seven count; the answering light arrives, cracking the temple order while preserving cosmic mystery.",
+    "entry": "Nari stands in the responding lower chamber with stronger evidence, growing fear, and no adequate explanation as Orem arrives",
+    "exit": "the answering light comes after Nari permits the observed pattern to continue; Orem is left with remorse over knowledge fear may have kept from him, Nari understands that curiosity can uncover things safer left unknown, and neither reaches a stable balance between curiosity and fear",
     "required_movements": [
-      "Master Orem enters or blocks the threshold",
-      "Nari confronts Orem with what she observed",
-      "the chamber continues the broken count",
-      "the broken seven-and-seven count gathers in the God-Stone, the lower chamber, and the wrong-moving star",
-      "Orem reveals fear and partial inherited warning",
-      "Nari chooses to finish or permit the count",
-      "the God-Stone, the lower chamber, and the wrong-moving star answer together through the completed seven-and-seven pattern",
-      "ending remains decisive and mysterious"
+      "Orem enters or blocks the threshold as someone trying to stop a danger he believes is real",
+      "Nari confronts Orem with observations rather than a grand explanation",
+      "Orem reveals enough personal or inherited history to show that fear progressively narrowed what he was willing to investigate",
+      "Orem shows remorse that his caution may have protected him while also keeping him from knowledge he can no longer recover",
+      "the lower chamber continues the broken count through observable behavior neither character can explain",
+      "Nari hesitates because she now understands that discovering something real does not mean it was safe or wise to discover",
+      "corresponding changes appear in the God-Stone, lower chamber, and wrong-moving star without establishing a comprehensible mechanism",
+      "neither Nari nor Orem can establish that stopping the pattern is safer than allowing it to continue",
+      "Nari chooses to complete or permit the final observed pattern without claiming to know which choice is correct",
+      "the answering light follows, demonstrating response or contact while leaving agency, purpose, ontology, and consequences unresolved",
+      "Orem ends with renewed awareness of the knowledge fear may have cost him",
+      "Nari ends with renewed awareness of the danger curiosity may expose",
+      "neither character reaches the balance between curiosity and fear; each only becomes more aware of the limitation of their own extreme"
     ],
     "dependencies": [
       "AC-000003",
-      "AC-000011"
+      "AC-000011",
+      "AC-000012",
+      "AC-000013",
+      "AC-000014",
+      "AC-000015",
+      "AC-000016",
+      "AC-000017"
     ],
     "reader_information": {
       "may_reveal": [
-        "Master Orem enters or blocks the threshold",
-        "Nari confronts Orem with what she observed",
-        "the chamber continues the broken count",
-        "the broken seven-and-seven count gathers in the God-Stone, the lower chamber, and the wrong-moving star",
-        "Orem reveals fear and partial inherited warning",
-        "Nari chooses to finish or permit the count",
-        "the God-Stone, the lower chamber, and the wrong-moving star answer together through the completed seven-and-seven pattern",
-        "ending remains decisive and mysterious"
+        "Orem enters or blocks the threshold as someone trying to stop a danger he believes is real",
+        "Nari confronts Orem with observations rather than a grand explanation",
+        "Orem reveals enough personal or inherited history to show that fear progressively narrowed what he was willing to investigate",
+        "Orem shows remorse that his caution may have protected him while also keeping him from knowledge he can no longer recover",
+        "the lower chamber continues the broken count through observable behavior neither character can explain",
+        "Nari hesitates because she now understands that discovering something real does not mean it was safe or wise to discover",
+        "corresponding changes appear in the God-Stone, lower chamber, and wrong-moving star without establishing a comprehensible mechanism",
+        "neither Nari nor Orem can establish that stopping the pattern is safer than allowing it to continue",
+        "Nari chooses to complete or permit the final observed pattern without claiming to know which choice is correct",
+        "the answering light follows, demonstrating response or contact while leaving agency, purpose, ontology, and consequences unresolved",
+        "Orem ends with renewed awareness of the knowledge fear may have cost him",
+        "Nari ends with renewed awareness of the danger curiosity may expose",
+        "neither character reaches the balance between curiosity and fear; each only becomes more aware of the limitation of their own extreme"
       ],
       "must_conceal": [
-        "Orem carries inherited danger and partial knowledge",
         "preserve the mystery of the builders",
-        "keep the mechanism purpose unresolved",
-        "leave the answer’s full meaning open",
+        "keep the true nature and purpose of the God-Stone unresolved",
+        "do not establish a causal mechanism for the correspondence",
+        "leave the answering light’s full meaning and consequences open",
+        "do not identify either curiosity or fear as the correct governing principle",
+        "do not resolve what the ideal balance between curiosity and fear would be",
+        "do not resolve whether Nari will eventually become like Orem",
         "preserve pre-technological viewpoint vocabulary"
       ]
     },
@@ -195,6 +226,6 @@
         }
       ]
     },
-    "revision": "imported-revision-e33c0973ac820cc283f3"
+    "revision": "author-revision-2"
   }
 ]
