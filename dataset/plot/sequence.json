@@ -150,25 +150,28 @@
     "authority_class": "candidate_semantic",
     "title": "The Answering Light",
     "ordinal": 3,
-    "purpose": "Scene 3 confronts curiosity with justified fear. Orem becomes a credible possible future for Nari rather than a simple obstacle, and the answering light breaks established certainty without replacing it with comprehension.",
+    "purpose": "Scene 3 confronts curiosity with fear without declaring either sufficient. Fear can protect by restricting exposure but also restrict knowledge; curiosity can expand knowledge but also reveal things whose consequences may exceed human understanding. Orem and Nari each glimpse the cost of their own extreme without reaching the balance between them.",
     "setting": "lower temple chamber beneath the God-Stone, continuing directly from Scene 2",
     "legacy_status": "accepted_for_scene3_generation",
-    "legacy_revision": 4,
+    "legacy_revision": 5,
     "candidate_status": "candidate",
     "viewpoint": "AC-000003",
-    "entry": "Nari stands in the responding lower chamber with strong evidence, growing fear, and no adequate explanation as Orem arrives",
-    "exit": "after Nari chooses to complete or permit the final observed pattern, the answering light comes; the inherited order is shown incomplete, Orem’s fear is shown grounded in something real, and neither character understands what answered",
+    "entry": "Nari stands in the responding lower chamber with stronger evidence, growing fear, and no adequate explanation as Orem arrives",
+    "exit": "the answering light comes after Nari permits the observed pattern to continue; Orem is left with remorse over knowledge fear may have kept from him, Nari understands that curiosity can uncover things safer left unknown, and neither reaches a stable balance between curiosity and fear",
     "required_movements": [
       "Orem enters or blocks the threshold as someone trying to stop a danger he believes is real",
       "Nari confronts Orem with observations rather than a grand explanation",
-      "Orem reveals enough personal or inherited history to show how curiosity, exposure, fear, and responsibility hardened into caution",
-      "Nari recognizes in Orem a possible future version of herself and feels the force of his warning",
+      "Orem reveals enough personal or inherited history to show that fear progressively narrowed what he was willing to investigate",
+      "Orem shows remorse that his caution may have protected him while also keeping him from knowledge he can no longer recover",
       "the lower chamber continues the broken count through observable behavior neither character can explain",
+      "Nari hesitates because she now understands that discovering something real does not mean it was safe or wise to discover",
       "corresponding changes appear in the God-Stone, lower chamber, and wrong-moving star without establishing a comprehensible mechanism",
-      "Nari chooses to complete or permit the final observed pattern despite fear and without claiming to know what it will do",
-      "the answering light follows, demonstrating response or contact while leaving agency, purpose, and ontology unresolved",
-      "Nari is vindicated that the inherited model was incomplete, while Orem is vindicated that inquiry exposed a real and uncontrollable danger",
-      "ending leaves Nari with greater epistemic humility: more evidence, less certainty, and the first understanding of why fear can harden curiosity into dogma"
+      "neither Nari nor Orem can establish that stopping the pattern is safer than allowing it to continue",
+      "Nari chooses to complete or permit the final observed pattern without claiming to know which choice is correct",
+      "the answering light follows, demonstrating response or contact while leaving agency, purpose, ontology, and consequences unresolved",
+      "Orem ends with renewed awareness of the knowledge fear may have cost him",
+      "Nari ends with renewed awareness of the danger curiosity may expose",
+      "neither character reaches the balance between curiosity and fear; each only becomes more aware of the limitation of their own extreme"
     ],
     "dependencies": [
       "AC-000003",
@@ -184,20 +187,25 @@
       "may_reveal": [
         "Orem enters or blocks the threshold as someone trying to stop a danger he believes is real",
         "Nari confronts Orem with observations rather than a grand explanation",
-        "Orem reveals enough personal or inherited history to show how curiosity, exposure, fear, and responsibility hardened into caution",
-        "Nari recognizes in Orem a possible future version of herself and feels the force of his warning",
+        "Orem reveals enough personal or inherited history to show that fear progressively narrowed what he was willing to investigate",
+        "Orem shows remorse that his caution may have protected him while also keeping him from knowledge he can no longer recover",
         "the lower chamber continues the broken count through observable behavior neither character can explain",
+        "Nari hesitates because she now understands that discovering something real does not mean it was safe or wise to discover",
         "corresponding changes appear in the God-Stone, lower chamber, and wrong-moving star without establishing a comprehensible mechanism",
-        "Nari chooses to complete or permit the final observed pattern despite fear and without claiming to know what it will do",
-        "the answering light follows, demonstrating response or contact while leaving agency, purpose, and ontology unresolved",
-        "Nari is vindicated that the inherited model was incomplete, while Orem is vindicated that inquiry exposed a real and uncontrollable danger",
-        "ending leaves Nari with greater epistemic humility: more evidence, less certainty, and the first understanding of why fear can harden curiosity into dogma"
+        "neither Nari nor Orem can establish that stopping the pattern is safer than allowing it to continue",
+        "Nari chooses to complete or permit the final observed pattern without claiming to know which choice is correct",
+        "the answering light follows, demonstrating response or contact while leaving agency, purpose, ontology, and consequences unresolved",
+        "Orem ends with renewed awareness of the knowledge fear may have cost him",
+        "Nari ends with renewed awareness of the danger curiosity may expose",
+        "neither character reaches the balance between curiosity and fear; each only becomes more aware of the limitation of their own extreme"
       ],
       "must_conceal": [
         "preserve the mystery of the builders",
         "keep the true nature and purpose of the God-Stone unresolved",
         "do not establish a causal mechanism for the correspondence",
-        "leave the answering light’s full meaning open",
+        "leave the answering light’s full meaning and consequences open",
+        "do not identify either curiosity or fear as the correct governing principle",
+        "do not resolve what the ideal balance between curiosity and fear would be",
         "do not resolve whether Nari will eventually become like Orem",
         "preserve pre-technological viewpoint vocabulary"
       ]
@@ -221,6 +229,6 @@
         }
       ]
     },
-    "revision": "author-revision-1"
+    "revision": "author-revision-2"
   }
 ]

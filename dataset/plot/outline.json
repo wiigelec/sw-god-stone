@@ -20,13 +20,13 @@
       {
         "id": "SCN-000003",
         "entity_type": "scene",
-        "revision": 4
+        "revision": 5
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 3,
+    "legacy_revision": 4,
     "candidate_status": "candidate",
-    "revision": "author-revision-1"
+    "revision": "author-revision-2"
   },
   {
     "id": "STR-000001",
@@ -71,15 +71,15 @@
     "title": "The Answering Light",
     "ordinal": 3,
     "structural_role": "contact_resolution",
-    "plot_function": "Bring Orem’s fear and Nari’s curiosity into direct confrontation. Orem reveals enough history to make his caution credible; Nari proceeds despite sharing some of that fear. The answering light follows a completed observed pattern, confirming that something real responded while denying both characters an ultimate explanation.",
+    "plot_function": "Bring Orem’s fear and Nari’s curiosity into direct confrontation without resolving the tension in favor of either. Orem confronts remorse over knowledge fear may have kept him from pursuing; Nari confronts the possibility that curiosity can reveal things whose consequences exceed human understanding and may have been safer left unknown. Neither reaches the wiser balance between curiosity and fear. The answering light follows a completed observed pattern and leaves both with more evidence but no ultimate explanation.",
     "scene_ref": {
       "id": "SCN-000003",
       "entity_type": "scene",
-      "revision": 4
+      "revision": 5
     },
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 2,
+    "legacy_revision": 3,
     "candidate_status": "candidate",
-    "revision": "author-revision-1"
+    "revision": "author-revision-2"
   }
 ]
