@@ -33,5 +33,33 @@
     },
     "legacy_revision": 2,
     "revision": "imported-revision-aeec8587962a467a2f9f"
+  },
+  "AC-000016": {
+    "id": "AC-000016",
+    "surface": "canon.character",
+    "authority_class": "accepted_semantic",
+    "assertion": "Master Orem protects the inherited explanatory order when persistent anomalous evidence threatens it. His failure mode is institutional certainty hardened into dogma: he initially treats contradiction as error or danger rather than as reason to revise the prevailing model.",
+    "open_question_refs": [
+      "OQ-000004"
+    ],
+    "provenance": {
+      "source": "author_acceptance",
+      "accepted_date": "2026-09-21",
+      "note": "Accepted during Canon consolidation."
+    },
+    "revision": "author-revision-1"
+  },
+  "AC-000017": {
+    "id": "AC-000017",
+    "surface": "canon.character",
+    "authority_class": "accepted_semantic",
+    "assertion": "Nari privileges repeated observation and evidence over doctrine. When evidence survives careful checking, she treats the prevailing model as potentially incomplete, while not assuming that better evidence grants ultimate comprehension.",
+    "open_question_refs": [],
+    "provenance": {
+      "source": "author_acceptance",
+      "accepted_date": "2026-09-21",
+      "note": "Accepted during Canon consolidation."
+    },
+    "revision": "author-revision-1"
   }
 }
