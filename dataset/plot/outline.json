@@ -2,7 +2,7 @@
   {
     "id": "CH-000001",
     "surface": "plot.outline",
-    "authority_class": "candidate_semantic",
+    "authority_class": "accepted_semantic",
     "title": "Short story unit",
     "ordinal": 1,
     "structural_role": "short_story_container",
@@ -25,13 +25,12 @@
     ],
     "legacy_status": "committed_intermediate",
     "legacy_revision": 4,
-    "candidate_status": "candidate",
     "revision": "author-revision-2"
   },
   {
     "id": "STR-000001",
     "surface": "plot.outline",
-    "authority_class": "candidate_semantic",
+    "authority_class": "accepted_semantic",
     "title": "The Star That Moved Wrong",
     "ordinal": 1,
     "structural_role": "inciting_disturbance",
@@ -43,13 +42,12 @@
     },
     "legacy_status": "committed_intermediate",
     "legacy_revision": 2,
-    "candidate_status": "candidate",
     "revision": "author-revision-1"
   },
   {
     "id": "STR-000002",
     "surface": "plot.outline",
-    "authority_class": "candidate_semantic",
+    "authority_class": "accepted_semantic",
     "title": "Beneath the God-Stone",
     "ordinal": 2,
     "structural_role": "descent_and_discovery",
@@ -61,13 +59,12 @@
     },
     "legacy_status": "committed_intermediate",
     "legacy_revision": 2,
-    "candidate_status": "candidate",
     "revision": "author-revision-1"
   },
   {
     "id": "STR-000003",
     "surface": "plot.outline",
-    "authority_class": "candidate_semantic",
+    "authority_class": "accepted_semantic",
     "title": "The Answering Light",
     "ordinal": 3,
     "structural_role": "contact_resolution",
@@ -79,7 +76,6 @@
     },
     "legacy_status": "committed_intermediate",
     "legacy_revision": 3,
-    "candidate_status": "candidate",
     "revision": "author-revision-2"
   }
 ]
