@@ -1,1 +1,37 @@
-{}
+{
+  "AC-000003": {
+    "id": "AC-000003",
+    "surface": "canon.character",
+    "authority_class": "accepted_semantic",
+    "assertion": "Nari is a low-status but skilled apprentice sky-reader.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000003"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-3e04574e7646405b684f"
+  },
+  "AC-000011": {
+    "id": "AC-000011",
+    "surface": "canon.character",
+    "authority_class": "accepted_semantic",
+    "assertion": "Master Orem recognizes danger through inherited warning, office, and fear.",
+    "legacy_status": "approved",
+    "open_question_refs": [
+      "OQ-000001",
+      "OQ-000002",
+      "OQ-000003",
+      "OQ-000004"
+    ],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000018"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-aeec8587962a467a2f9f"
+  }
+}

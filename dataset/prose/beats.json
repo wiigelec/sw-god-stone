@@ -1,1 +1,90 @@
-{}
+{
+  "BEATS-SCN-000001": {
+    "id": "BEATS-SCN-000001",
+    "surface": "prose.beats",
+    "authority_class": "production_candidate",
+    "beats": [
+      "public sky-count",
+      "Nari performs skilled apprentice work",
+      "the seventh star in the seventh cluster behaves in measured wrongness",
+      "Nari verifies the anomaly on her slate",
+      "Master Orem suppresses warning",
+      "lens links anomaly to lower temple",
+      "Nari chooses to investigate"
+    ],
+    "legacy_revision": 2,
+    "candidate_status": "candidate",
+    "target_scope": "SCN-000001",
+    "dependencies": [
+      "SCN-000001"
+    ],
+    "dependency_relations": [
+      {
+        "target_id": "SCN-000001",
+        "target_revision": "imported-revision-d3fd920308984dfc18bf",
+        "authority_basis": "candidate",
+        "material": true
+      }
+    ],
+    "revision": "imported-revision-d62daef33de88ab2172a"
+  },
+  "BEATS-SCN-000002": {
+    "id": "BEATS-SCN-000002",
+    "surface": "prose.beats",
+    "authority_class": "production_candidate",
+    "beats": [
+      "Nari remains after the failed High Count and chooses secrecy over obedience",
+      "Nari enters a forbidden service way using apprentice knowledge",
+      "familiar temple architecture shifts into uncanny precision",
+      "Nari discovers the underside of the God-Stone",
+      "the chamber echoes the broken seven-and-seven count signaled by the wrong-moving star",
+      "human danger intrudes from above",
+      "Nari exits the scene with partial truth and unresolved danger"
+    ],
+    "legacy_revision": 3,
+    "candidate_status": "candidate",
+    "target_scope": "SCN-000002",
+    "dependencies": [
+      "SCN-000002"
+    ],
+    "dependency_relations": [
+      {
+        "target_id": "SCN-000002",
+        "target_revision": "imported-revision-ab913e730324ca058948",
+        "authority_basis": "candidate",
+        "material": true
+      }
+    ],
+    "revision": "imported-revision-8e2883e1ac50b10edbc1"
+  },
+  "BEATS-SCN-000003": {
+    "id": "BEATS-SCN-000003",
+    "surface": "prose.beats",
+    "authority_class": "production_candidate",
+    "beats": [
+      "Master Orem enters or blocks the threshold",
+      "Nari confronts Orem with what she observed",
+      "the chamber continues the broken count",
+      "the broken seven-and-seven count gathers in the God-Stone, the lower chamber, and the wrong-moving star",
+      "Orem reveals fear and partial inherited warning",
+      "Nari chooses to finish or permit the count",
+      "the God-Stone, the lower chamber, and the wrong-moving star answer together through the completed seven-and-seven pattern",
+      "ending remains decisive and mysterious"
+    ],
+    "legacy_revision": 3,
+    "candidate_status": "candidate",
+    "target_scope": "SCN-000003",
+    "dependencies": [
+      "SCN-000003"
+    ],
+    "dependency_relations": [
+      {
+        "target_id": "SCN-000003",
+        "target_revision": "imported-revision-e33c0973ac820cc283f3",
+        "authority_basis": "candidate",
+        "material": true
+      }
+    ],
+    "revision": "imported-revision-925f6ba54adc6e91baba"
+  }
+}

@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "id": "SCN-000001",
+    "surface": "plot.sequence",
+    "authority_class": "candidate_semantic",
+    "title": "The Star That Moved Wrong",
+    "ordinal": 1,
+    "purpose": "Scene 1 establishes ritual order, Nari’s skilled low-status viewpoint, the seventh-star anomaly, Master Orem’s suppression, the slate as witness, and the lower-temple implication.",
+    "setting": "upper terraces of the temple-city during the High Count",
+    "legacy_status": "accepted_for_scene1_generation",
+    "legacy_revision": 2,
+    "candidate_status": "candidate",
+    "viewpoint": "AC-000003",
+    "entry": "city believes the sky-count order is intact",
+    "exit": "Nari realizes the anomaly points toward the forbidden lower temple",
+    "required_movements": [
+      "public sky-count",
+      "Nari performs skilled apprentice work",
+      "the seventh star in the seventh cluster behaves in measured wrongness",
+      "Nari verifies the anomaly on her slate",
+      "Master Orem suppresses warning",
+      "lens links anomaly to lower temple",
+      "Nari chooses to investigate"
+    ],
+    "dependencies": [
+      "AC-000003",
+      "AC-000011"
+    ],
+    "reader_information": {
+      "may_reveal": [
+        "public sky-count",
+        "Nari performs skilled apprentice work",
+        "the seventh star in the seventh cluster behaves in measured wrongness",
+        "Nari verifies the anomaly on her slate",
+        "Master Orem suppresses warning",
+        "lens links anomaly to lower temple",
+        "Nari chooses to investigate"
+      ],
+      "must_conceal": [
+        "preserve cosmic mystery",
+        "keep the sacred light within Nari’s pre-technological understanding",
+        "keep the mechanism purpose unresolved"
+      ]
+    },
+    "legacy_projection": {
+      "point_of_view": "close third person through Nari",
+      "dependencies": [
+        {
+          "dependency_type": "semantic",
+          "target_id": "PLT-000001",
+          "target_type": "plot_model",
+          "target_revision": 2,
+          "required_status": "required"
+        },
+        {
+          "dependency_type": "semantic",
+          "target_id": "STR-000001",
+          "target_type": "structure_unit",
+          "target_revision": 1,
+          "required_status": "required"
+        }
+      ]
+    },
+    "revision": "imported-revision-d3fd920308984dfc18bf"
+  },
+  {
+    "id": "SCN-000002",
+    "surface": "plot.sequence",
+    "authority_class": "candidate_semantic",
+    "title": "Beneath the God-Stone",
+    "ordinal": 2,
+    "purpose": "Scene 2 carries Nari from private resolve into forbidden descent and discovery that the God-Stone hides a lower presence connected to the wrong-moving star.",
+    "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone after the failed High Count",
+    "legacy_status": "accepted_for_scene2_generation",
+    "legacy_revision": 3,
+    "candidate_status": "candidate",
+    "viewpoint": "AC-000003",
+    "entry": "Nari has realized the anomaly points toward the forbidden lower temple and chooses private investigation after Master Orem suppresses the warning.",
+    "exit": "Nari discovers the lower temple is active and connected to the wrong-moving star; Master Orem calls to her from above as the chamber answers beneath her feet.",
+    "required_movements": [
+      "Nari remains after the failed High Count and chooses secrecy over obedience",
+      "Nari enters a forbidden service way using apprentice knowledge",
+      "familiar temple architecture shifts into uncanny precision",
+      "Nari discovers the underside of the God-Stone",
+      "the chamber echoes the broken seven-and-seven count signaled by the wrong-moving star",
+      "human danger intrudes from above",
+      "Nari exits the scene with partial truth and unresolved danger"
+    ],
+    "dependencies": [
+      "AC-000003",
+      "AC-000011"
+    ],
+    "reader_information": {
+      "may_reveal": [
+        "Nari remains after the failed High Count and chooses secrecy over obedience",
+        "Nari enters a forbidden service way using apprentice knowledge",
+        "familiar temple architecture shifts into uncanny precision",
+        "Nari discovers the underside of the God-Stone",
+        "the chamber echoes the broken seven-and-seven count signaled by the wrong-moving star",
+        "human danger intrudes from above",
+        "Nari exits the scene with partial truth and unresolved danger"
+      ],
+      "must_conceal": [
+        "preserve the mystery of the builders",
+        "keep the mechanism purpose unresolved",
+        "keep Master Orem’s knowledge partial",
+        "preserve the final answering-light consequence for Scene 3",
+        "preserve pre-technological viewpoint vocabulary"
+      ]
+    },
+    "legacy_projection": {
+      "point_of_view": "close third person through Nari",
+      "dependencies": [
+        {
+          "dependency_type": "semantic",
+          "target_id": "PLT-000001",
+          "target_type": "plot_model",
+          "target_revision": 2,
+          "required_status": "required"
+        },
+        {
+          "dependency_type": "semantic",
+          "target_id": "STR-000002",
+          "target_type": "structure_unit",
+          "target_revision": 1,
+          "required_status": "required"
+        }
+      ]
+    },
+    "revision": "imported-revision-ab913e730324ca058948"
+  },
+  {
+    "id": "SCN-000003",
+    "surface": "plot.sequence",
+    "authority_class": "candidate_semantic",
+    "title": "The Answering Light",
+    "ordinal": 3,
+    "purpose": "Scene 3 resolves the three-scene arc through confrontation, choice, seven-and-seven completion, and the answering light.",
+    "setting": "lower temple chamber beneath the God-Stone, continuing directly from Scene 2",
+    "legacy_status": "accepted_for_scene3_generation",
+    "legacy_revision": 3,
+    "candidate_status": "candidate",
+    "viewpoint": "AC-000003",
+    "entry": "Nari is in the awakened lower chamber after Master Orem calls her name and the chamber answers beneath her feet.",
+    "exit": "Nari completes or permits the broken seven-and-seven count; the answering light arrives, cracking the temple order while preserving cosmic mystery.",
+    "required_movements": [
+      "Master Orem enters or blocks the threshold",
+      "Nari confronts Orem with what she observed",
+      "the chamber continues the broken count",
+      "the broken seven-and-seven count gathers in the God-Stone, the lower chamber, and the wrong-moving star",
+      "Orem reveals fear and partial inherited warning",
+      "Nari chooses to finish or permit the count",
+      "the God-Stone, the lower chamber, and the wrong-moving star answer together through the completed seven-and-seven pattern",
+      "ending remains decisive and mysterious"
+    ],
+    "dependencies": [
+      "AC-000003",
+      "AC-000011"
+    ],
+    "reader_information": {
+      "may_reveal": [
+        "Master Orem enters or blocks the threshold",
+        "Nari confronts Orem with what she observed",
+        "the chamber continues the broken count",
+        "the broken seven-and-seven count gathers in the God-Stone, the lower chamber, and the wrong-moving star",
+        "Orem reveals fear and partial inherited warning",
+        "Nari chooses to finish or permit the count",
+        "the God-Stone, the lower chamber, and the wrong-moving star answer together through the completed seven-and-seven pattern",
+        "ending remains decisive and mysterious"
+      ],
+      "must_conceal": [
+        "Orem carries inherited danger and partial knowledge",
+        "preserve the mystery of the builders",
+        "keep the mechanism purpose unresolved",
+        "leave the answer’s full meaning open",
+        "preserve pre-technological viewpoint vocabulary"
+      ]
+    },
+    "legacy_projection": {
+      "point_of_view": "close third person through Nari",
+      "dependencies": [
+        {
+          "dependency_type": "semantic",
+          "target_id": "PLT-000001",
+          "target_type": "plot_model",
+          "target_revision": 2,
+          "required_status": "required"
+        },
+        {
+          "dependency_type": "semantic",
+          "target_id": "STR-000003",
+          "target_type": "structure_unit",
+          "target_revision": 1,
+          "required_status": "required"
+        }
+      ]
+    },
+    "revision": "imported-revision-e33c0973ac820cc283f3"
+  }
+]

@@ -18,5 +18,35 @@
     "operation": "migration:legacy-unversioned-v0-to-dataset-v1",
     "unresolved_decisions_or_losses": [],
     "semantic_author_decision_required": false
+  },
+  {
+    "source_realization": {
+      "format": "StoryWriter v2 Google Drive workspace",
+      "dataset_id": "test1",
+      "manifest_revision": 4,
+      "active_generation": "GEN-000010",
+      "ruleset": {
+        "name": "StoryWriter",
+        "version": "0.2.0-draft"
+      }
+    },
+    "target_realization": {
+      "schema": {
+        "id": "adr-story-writer.dataset",
+        "version": 1
+      },
+      "ruleset_binding": {
+        "application": "adr-story-writer",
+        "component": "ruleset",
+        "version": "0.3.0"
+      }
+    },
+    "operation": "author_authorized_semantic_import",
+    "unresolved_decisions_or_losses": [
+      "The StoryWriter 0.2.0-draft Drive workspace is not a registered migration source; imported semantics retain their source authority without claiming a registered migration.",
+      "The Drive manifest reports revision 4 while some semantic collections contain later entity revisions; legacy entity revisions are preserved per artifact.",
+      "Generated scene prose was not accepted in the source workspace and therefore was not promoted into dataset/chapters; exact source candidates are archived outside Dataset authority under legacy-candidates/."
+    ],
+    "semantic_author_decision_required": false
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "id": "SYN-000001",
+  "surface": "plot.synopsis",
+  "authority_class": "candidate_semantic",
+  "title": "Minimal post-canon plot synopsis",
+  "text": "Nari, a low-status apprentice sky-reader, witnesses a violation in the sacred count: the seventh star in the seventh cluster moves wrong. She verifies the anomaly on her slate, but Master Orem suppresses the warning. The lens reveals that the wrongness points below, toward the hidden lower temple beneath the God-Stone.\n\nNari follows the lens’s implication into forbidden temple spaces. Beneath the public sacred order, she finds the underside of the God-Stone and a chamber that echoes the broken seven-and-seven count signaled by the wrong-moving star. The temple’s architecture, silence, and light suggest that the sky and the lower chamber are part of the same pattern.\n\nIn the final confrontation, Orem’s fear and inherited warning press against Nari’s witnessed truth. The broken seven-and-seven count gathers in the God-Stone, the lower chamber, and the wrong-moving star. When the pattern completes, the answering light comes. The contact is decisive, and its full meaning remains open.",
+  "legacy_status": "committed_intermediate",
+  "open_question_refs": [
+    "OQ-000001",
+    "OQ-000002",
+    "OQ-000003",
+    "OQ-000004"
+  ],
+  "legacy_revision": 1,
+  "candidate_status": "candidate",
+  "revision": "imported-revision-e693c3d2d745dfae0d82"
+}

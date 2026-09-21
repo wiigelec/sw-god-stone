@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "application_id": "adr-story-writer",
-  "instance_id": "adr-story-writer-dataset-template",
+  "instance_id": "god-stone",
   "ruleset_authority": {
     "kind": "content-sha256",
     "sha256": "de2f5f7c0c9381a79b9e026773b3b59bf30bdf94adee4fa3a488eab2863974ab"

@@ -1,6 +1,103 @@
 {
   "application": "adr-story-writer",
   "dataset_role": "story",
-  "title": null,
-  "status": "template"
+  "title": "God Stone",
+  "status": "active_working",
+  "source_evidence": [
+    {
+      "id": "SRC-000001",
+      "revision": 1,
+      "authority_class": "source_evidence",
+      "content": "Author Workshop session source for Scene 1 workflow bundle.\n\nUser seed: ancient aliens and pre-tech civilization\n\nApproved-in-chat working direction: a short three-scene speculative story about a pre-technological ritual-astronomical civilization living among ancient alien ruins misunderstood as sacred architecture; the protagonist is an apprentice sky-reader; the first scene should focus on the opening sky-count ritual and generate Scene 1 prose through the StoryWriter scene-prose workflow.\n\nAuthor request: work on Scene 1 workflow to generate prose, then commit the current workflow artifacts to the dataset.\n",
+      "legacy_status": "committed_intermediate"
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "OQ-000001",
+      "revision": 1,
+      "status": "open",
+      "question": "Are the ancient builders absent, extinct, sleeping, observing, returning, or otherwise present only through their infrastructure?",
+      "context": "Open design question extracted during Scene 1 workflow preparation. It is not resolved by the Scene 1 prose candidate.",
+      "question_class": "worldbuilding",
+      "priority": "normal"
+    },
+    {
+      "id": "OQ-000002",
+      "revision": 1,
+      "status": "open",
+      "question": "Is the temple mechanism a beacon, warning system, lock, receiver, containment system, listening post, or something else?",
+      "context": "Open design question extracted during Scene 1 workflow preparation. It is not resolved by the Scene 1 prose candidate.",
+      "question_class": "worldbuilding",
+      "priority": "normal"
+    },
+    {
+      "id": "OQ-000003",
+      "revision": 1,
+      "status": "open",
+      "question": "What exactly will the answering light mean for the civilization after the story ends?",
+      "context": "Open design question extracted during Scene 1 workflow preparation. It is not resolved by the Scene 1 prose candidate.",
+      "question_class": "thematic",
+      "priority": "normal"
+    },
+    {
+      "id": "OQ-000004",
+      "revision": 1,
+      "status": "open",
+      "question": "How much does Master Orem or the priesthood know, suspect, fear, or deliberately suppress?",
+      "context": "Open design question extracted during Scene 1 workflow preparation. It is not resolved by the Scene 1 prose candidate.",
+      "question_class": "character",
+      "priority": "normal"
+    }
+  ],
+  "legacy_candidate_manuscript": [
+    {
+      "id": "SPC-000001",
+      "title": "The Star That Moved Wrong",
+      "legacy_status": "generated_needs_validation",
+      "authority_class": "candidate_manuscript",
+      "accepted": false,
+      "archive_path": "legacy-candidates/SPC-000001_The_Star_That_Moved_Wrong.md",
+      "legacy_content_hash": "sha256:29fe0691776d0975776e1b16e61a0b4eadf0db34a6da82b9f477333bbfa2a3ca",
+      "generation_package": {
+        "id": "PGP-000001",
+        "entity_type": "prose_generation_package_manifest",
+        "revision": 1,
+        "content_hash": "sha256:a99e26da920ad3d7155c21345881713730d144d7c3a2e46f0b2ce3dd1f3609c6"
+      },
+      "note": "Preserved as non-authoritative archive because dataset/chapters is accepted manuscript storage."
+    },
+    {
+      "id": "SPC-000002",
+      "title": "Beneath the God-Stone",
+      "legacy_status": "generated_needs_validation",
+      "authority_class": "candidate_manuscript",
+      "accepted": false,
+      "archive_path": "legacy-candidates/SPC-000002_Beneath_the_God-Stone.md",
+      "legacy_content_hash": "sha256:275ef2928db55873426d147cab1fa8897439bccb38411fe41911b93a74bd6857",
+      "generation_package": {
+        "id": "PGP-000002",
+        "entity_type": "prose_generation_package_manifest",
+        "revision": 1,
+        "content_hash": "sha256:3f1629c669eb66c302d94d97c5828362507fdf23fcd12c81dc9daa1882e2265f"
+      },
+      "note": "Preserved as non-authoritative archive because dataset/chapters is accepted manuscript storage."
+    },
+    {
+      "id": "SPC-000003",
+      "title": "The Answering Light",
+      "legacy_status": "generated_needs_validation",
+      "authority_class": "candidate_manuscript",
+      "accepted": false,
+      "archive_path": "legacy-candidates/SPC-000003_The_Answering_Light.md",
+      "legacy_content_hash": "sha256:b2fa824a10b87a53771b8c1fb88cb894ffc83d677b9bd3e914b94551161c9338",
+      "generation_package": {
+        "id": "PGP-000003",
+        "entity_type": "prose_generation_package_manifest",
+        "revision": 1,
+        "content_hash": "sha256:3af86572fbd24160b71b883bafc19965043adc51613bd90674bcc611c2601abc"
+      },
+      "note": "Preserved as non-authoritative archive because dataset/chapters is accepted manuscript storage."
+    }
+  ]
 }

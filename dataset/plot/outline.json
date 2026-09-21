@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "id": "CH-000001",
+    "surface": "plot.outline",
+    "authority_class": "candidate_semantic",
+    "title": "Short story unit",
+    "ordinal": 1,
+    "structural_role": "short_story_container",
+    "scene_refs": [
+      {
+        "id": "SCN-000001",
+        "entity_type": "scene",
+        "revision": 2
+      },
+      {
+        "id": "SCN-000002",
+        "entity_type": "scene",
+        "revision": 3
+      },
+      {
+        "id": "SCN-000003",
+        "entity_type": "scene",
+        "revision": 3
+      }
+    ],
+    "legacy_status": "committed_intermediate",
+    "legacy_revision": 2,
+    "candidate_status": "candidate",
+    "revision": "imported-revision-2f7e3734be83b34b9ee9"
+  },
+  {
+    "id": "STR-000001",
+    "surface": "plot.outline",
+    "authority_class": "candidate_semantic",
+    "title": "The Star That Moved Wrong",
+    "ordinal": 1,
+    "structural_role": "inciting_disturbance",
+    "plot_function": "Establish ritual order, Nari’s skilled low-status viewpoint, the seventh-star anomaly, Master Orem’s suppression, the slate as witness, and the lower-temple implication.",
+    "scene_ref": {
+      "id": "SCN-000001",
+      "entity_type": "scene",
+      "revision": 2
+    },
+    "legacy_status": "committed_intermediate",
+    "legacy_revision": 1,
+    "candidate_status": "candidate",
+    "revision": "imported-revision-9c53f20a25e7cba1d073"
+  },
+  {
+    "id": "STR-000002",
+    "surface": "plot.outline",
+    "authority_class": "candidate_semantic",
+    "title": "Beneath the God-Stone",
+    "ordinal": 2,
+    "structural_role": "descent_and_discovery",
+    "plot_function": "Carry Nari from private resolve into forbidden descent and discovery that the God-Stone hides a lower presence connected to the wrong-moving star through the broken seven-and-seven count.",
+    "scene_ref": {
+      "id": "SCN-000002",
+      "entity_type": "scene",
+      "revision": 3
+    },
+    "legacy_status": "committed_intermediate",
+    "legacy_revision": 1,
+    "candidate_status": "candidate",
+    "revision": "imported-revision-5101f49e258b88d8fac8"
+  },
+  {
+    "id": "STR-000003",
+    "surface": "plot.outline",
+    "authority_class": "candidate_semantic",
+    "title": "The Answering Light",
+    "ordinal": 3,
+    "structural_role": "contact_resolution",
+    "plot_function": "Resolve the three-scene arc through confrontation, choice, seven-and-seven completion, and the answering light.",
+    "scene_ref": {
+      "id": "SCN-000003",
+      "entity_type": "scene",
+      "revision": 3
+    },
+    "legacy_status": "committed_intermediate",
+    "legacy_revision": 1,
+    "candidate_status": "candidate",
+    "revision": "imported-revision-42cda6a68d173e67357d"
+  }
+]

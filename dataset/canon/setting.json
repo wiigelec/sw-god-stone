@@ -1,1 +1,162 @@
-{}
+{
+  "AC-000001": {
+    "id": "AC-000001",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The story world contains a pre-technological ritual-astronomical civilization.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000001"
+    },
+    "legacy_revision": 1,
+    "revision": "imported-revision-fbbeada9907cad8009e3"
+  },
+  "AC-000002": {
+    "id": "AC-000002",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The civilization lives among ancient sacred structures and instruments that shape its ritual, astronomical, and religious life.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000002"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-1c61dd6d9f148f16b0d1"
+  },
+  "AC-000004": {
+    "id": "AC-000004",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The sacred seventh star in the seventh cluster behaves in measured wrongness against accepted sky order.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000004"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-d145bf46d1ed269b0bea"
+  },
+  "AC-000005": {
+    "id": "AC-000005",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "A temple instrument connects the sky anomaly with the sealed lower temple.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000005"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-18d74f350ce13a7ac0f2"
+  },
+  "AC-000006": {
+    "id": "AC-000006",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The sacred anomaly and the lower-temple phenomenon are connected.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000006"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-b216f778376c62eca221"
+  },
+  "AC-000007": {
+    "id": "AC-000007",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The temple is built around the God-Stone, which has a sacred public presence above and a hidden lower presence beneath the temple.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000007"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-bd9f0ef0e4447bd012f1"
+  },
+  "AC-000008": {
+    "id": "AC-000008",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The seven-and-seven pattern recurs as an observed ritual motif and haunting correspondence.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000015"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-d835ce5d7682edb498ee"
+  },
+  "AC-000009": {
+    "id": "AC-000009",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "Nari’s slate preserves witnessed truth and carries the weight of testimony and ritual witness.",
+    "legacy_status": "approved",
+    "open_question_refs": [],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000016"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-4728e865a872b3151b4b"
+  },
+  "AC-000010": {
+    "id": "AC-000010",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The lower temple presents uncanny echoes of the sky-count through architecture, light, silence, and pattern.",
+    "legacy_status": "approved",
+    "open_question_refs": [
+      "OQ-000001",
+      "OQ-000002",
+      "OQ-000003",
+      "OQ-000004"
+    ],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000017"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-48bca3eb7d70264d0c79"
+  },
+  "AC-000012": {
+    "id": "AC-000012",
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "assertion": "The answering light is a contact or answering event.",
+    "legacy_status": "approved",
+    "open_question_refs": [
+      "OQ-000001",
+      "OQ-000002",
+      "OQ-000003",
+      "OQ-000004"
+    ],
+    "provenance": {
+      "source_dataset_id": "test1",
+      "legacy_entity_type": "approved_canon",
+      "source_proposed_canon_id": "PC-000019"
+    },
+    "legacy_revision": 2,
+    "revision": "imported-revision-b99ce94cb79c608feaf1"
+  }
+}
