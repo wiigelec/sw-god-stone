@@ -145,7 +145,7 @@
   "BEATS-SCN-000003": {
     "id": "BEATS-SCN-000003",
     "surface": "prose.beats",
-    "authority_class": "production_candidate",
+    "authority_class": "production_approved",
     "beats": [
       "Orem reaches the threshold trying to prevent an encounter he believes may have consequences neither of them can understand",
       "Nari answers him with observations and repeated results rather than a claim to understand what they mean",
@@ -162,7 +162,6 @@
       "the ending leaves both characters with more evidence and no adequate human explanation"
     ],
     "legacy_revision": 4,
-    "candidate_status": "candidate",
     "target_scope": "SCN-000003",
     "dependencies": [
       "SCN-000003"
@@ -175,7 +174,7 @@
         "material": true
       }
     ],
-    "revision": "candidate-revision-f05e622335f4a96e8468",
+    "revision": "accepted-revision-2238bf1b760778b58f97",
     "candidate_revision_history": [
       {
         "id": "BEATS-SCN-000003",
@@ -247,6 +246,22 @@
         ],
         "revision": "candidate-revision-fd9c3398a105fe503fee"
       }
-    ]
+    ],
+    "accepted_from_candidate_revision": "candidate-revision-f05e622335f4a96e8468",
+    "acceptance": {
+      "operation": "production_approval",
+      "scope": "BEATS-SCN-000003",
+      "candidate_revision": "candidate-revision-f05e622335f4a96e8468",
+      "accepted_revision": "accepted-revision-2238bf1b760778b58f97",
+      "coordination": {
+        "operation": "coordinated_acceptance",
+        "decision_id": "coordinated-acceptance-eb0cca0a0470d80b51ad",
+        "related_scopes": [
+          "BEATS-SCN-000003",
+          "MODES-SCN-000003",
+          "PPL-000003"
+        ]
+      }
+    }
   }
 }
