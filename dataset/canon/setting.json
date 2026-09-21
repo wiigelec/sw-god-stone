@@ -201,5 +201,33 @@
       "note": "Accepted thematic ontology during Canon consolidation."
     },
     "revision": "author-revision-1"
+  },
+  "AC-000018": {
+    "id": "AC-000018",
+    "assertion": "The High Count is a public ritual-astronomical observance intended to confirm the inherited order of the sky.",
+    "open_question_refs": [],
+    "provenance": {
+      "source": "author_acceptance",
+      "accepted_date": "2026-09-21",
+      "note": "Accepted to distinguish the High Count as an institution from the anomalous outcome of the story's specific observance."
+    },
+    "surface": "canon.setting",
+    "authority_class": "accepted_semantic",
+    "revision": "accepted-revision-8268f471d1fb402c94f1",
+    "accepted_from_candidate_revision": "candidate-revision-99b8680e87022f6420b5",
+    "acceptance": {
+      "operation": "semantic_acceptance",
+      "scope": "AC-000018",
+      "candidate_revision": "candidate-revision-99b8680e87022f6420b5",
+      "accepted_revision": "accepted-revision-8268f471d1fb402c94f1",
+      "coordination": {
+        "operation": "coordinated_acceptance",
+        "decision_id": "coordinated-acceptance-f0e45ef6edba1fe3dcd9",
+        "related_scopes": [
+          "AC-000018",
+          "AC-000019"
+        ]
+      }
+    }
   }
 }
