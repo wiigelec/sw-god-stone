@@ -5,31 +5,31 @@
     "authority_class": "production_candidate",
     "layout_status": "ready_for_generation_package",
     "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
-    "opening_shape": "public sacred order viewed through apprentice precision",
+    "opening_shape": "tight focus on Nari's apprentice work widening through nearby ritual, terrace, city, God-Stone, and finally the ordered sky",
     "closing_shape": "fearful curiosity carrying Nari toward the forbidden lower temple",
     "units": [
       {
         "unit_id": "PPLU-001",
-        "primary_mode": "exposition",
-        "beat_label": "Reliable order",
-        "content_movement": "Establish the High Count as a practiced human system that has repeatedly appeared to work: terrace, crowd, ritual instruments, expected stars, and the public God-Stone above.",
-        "emotional_register": "reverent confidence",
+        "primary_mode": "action",
+        "beat_label": "Hands at work",
+        "content_movement": "Open tightly on Nari's immediate physical work: fingers, slate, lens cloth, breath, and the exact motions required of a skilled apprentice. Keep the wider temple-city mostly outside the frame except for what directly touches her task.",
+        "emotional_register": "focused precision",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-002",
-        "primary_mode": "action",
-        "beat_label": "Apprentice observation",
-        "content_movement": "Show Nari performing exacting low-status work with lens and slate, participating competently in the inherited method rather than standing outside it.",
-        "emotional_register": "focused belonging",
+        "primary_mode": "exposition",
+        "beat_label": "World widens",
+        "content_movement": "Widen outward through what Nari notices while working: Orem and the nearby counters, ritual voices and lamps, the terrace and crowd, the temple-city, the public presence of the God-Stone, and only then the ordered sky the High Count is meant to confirm. Establish the inherited system's reliability through this expanding field rather than through an opening panorama.",
+        "emotional_register": "focused belonging widening into reverent confidence",
         "transition_role": "ordered_scene_progression"
       },
       {
         "unit_id": "PPLU-003",
         "primary_mode": "internal",
         "beat_label": "First wrongness",
-        "content_movement": "Nari sees the seventh star in the seventh cluster behave wrongly and first suspects her eyes, the smoke, the lens, or her own count.",
-        "emotional_register": "self-doubt",
+        "content_movement": "Once the narrative has widened fully into the ordered sky, snap attention back through the lens to Nari as the seventh star in the seventh cluster behaves wrongly. Her first response is intimate and practical: she suspects her eyes, the smoke, the lens, or her own count.",
+        "emotional_register": "self-doubt and sudden isolation",
         "transition_role": "ordered_scene_progression"
       },
       {
@@ -74,7 +74,7 @@
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 4,
+    "legacy_revision": 5,
     "candidate_status": "candidate",
     "target_scope": "SCN-000001",
     "dependencies": [
@@ -102,7 +102,7 @@
         "material": true
       }
     ],
-    "revision": "author-revision-2"
+    "revision": "author-revision-3"
   },
   "PPL-000002": {
     "id": "PPL-000002",
