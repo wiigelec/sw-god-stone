@@ -74,14 +74,14 @@
     "title": "Beneath the God-Stone",
     "ordinal": 2,
     "purpose": "Scene 2 rewards and punishes Nari’s curiosity: she discovers repeatable correspondences that show the inherited model is incomplete, while the scale and strangeness of what she encounters deepen her fear and deny her a replacement explanation.",
-    "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone after the failed High Count",
+    "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone immediately after the publicly completed High Count, whose verified anomaly remains known only to Nari and Orem",
     "legacy_status": "accepted_for_scene2_generation",
     "legacy_revision": 4,
     "viewpoint": "AC-000003",
     "entry": "Nari follows the verified lower-temple correspondence in secret, curious enough to proceed but increasingly afraid of what confirmation may mean",
     "exit": "Nari has established that the lower chamber, God-Stone, and sky anomaly participate in the same repeatable pattern, but she understands the phenomenon less rather than more; Orem calls from above as the chamber responds in a way she cannot explain",
     "required_movements": [
-      "Nari remains after the failed High Count and chooses inquiry over obedience while acknowledging her fear",
+      "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
       "Nari enters a forbidden service way using ordinary apprentice knowledge",
       "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
       "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
@@ -98,11 +98,13 @@
       "AC-000014",
       "AC-000015",
       "AC-000016",
-      "AC-000017"
+      "AC-000017",
+      "AC-000018",
+      "AC-000019"
     ],
     "reader_information": {
       "may_reveal": [
-        "Nari remains after the failed High Count and chooses inquiry over obedience while acknowledging her fear",
+        "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
         "Nari enters a forbidden service way using ordinary apprentice knowledge",
         "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
         "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
@@ -140,7 +142,336 @@
         }
       ]
     },
-    "revision": "author-revision-1"
+    "revision": "semantic-revision-2a057e6cfb9d668a8fd0",
+    "revision_history": [
+      {
+        "id": "SCN-000002",
+        "surface": "plot.sequence",
+        "authority_class": "accepted_semantic",
+        "title": "Beneath the God-Stone",
+        "ordinal": 2,
+        "purpose": "Scene 2 rewards and punishes Nari’s curiosity: she discovers repeatable correspondences that show the inherited model is incomplete, while the scale and strangeness of what she encounters deepen her fear and deny her a replacement explanation.",
+        "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone after the failed High Count",
+        "legacy_status": "accepted_for_scene2_generation",
+        "legacy_revision": 4,
+        "viewpoint": "AC-000003",
+        "entry": "Nari follows the verified lower-temple correspondence in secret, curious enough to proceed but increasingly afraid of what confirmation may mean",
+        "exit": "Nari has established that the lower chamber, God-Stone, and sky anomaly participate in the same repeatable pattern, but she understands the phenomenon less rather than more; Orem calls from above as the chamber responds in a way she cannot explain",
+        "required_movements": [
+          "Nari remains after the failed High Count and chooses inquiry over obedience while acknowledging her fear",
+          "Nari enters a forbidden service way using ordinary apprentice knowledge",
+          "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+          "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+          "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+          "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+          "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+          "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+          "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+        ],
+        "dependencies": [
+          "AC-000003",
+          "AC-000011",
+          "AC-000013",
+          "AC-000014",
+          "AC-000015",
+          "AC-000016",
+          "AC-000017"
+        ],
+        "reader_information": {
+          "may_reveal": [
+            "Nari remains after the failed High Count and chooses inquiry over obedience while acknowledging her fear",
+            "Nari enters a forbidden service way using ordinary apprentice knowledge",
+            "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+            "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+            "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+            "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+            "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+            "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+            "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+          ],
+          "must_conceal": [
+            "preserve the mystery of the builders",
+            "do not classify the God-Stone or lower chamber by true function",
+            "keep all mechanism labels provisional from Nari’s perspective",
+            "keep Master Orem’s knowledge partial",
+            "preserve the final answering-light consequence for Scene 3",
+            "preserve pre-technological viewpoint vocabulary"
+          ]
+        },
+        "legacy_projection": {
+          "point_of_view": "close third person through Nari",
+          "dependencies": [
+            {
+              "dependency_type": "semantic",
+              "target_id": "PLT-000001",
+              "target_type": "plot_model",
+              "target_revision": 2,
+              "required_status": "required"
+            },
+            {
+              "dependency_type": "semantic",
+              "target_id": "STR-000002",
+              "target_type": "structure_unit",
+              "target_revision": 1,
+              "required_status": "required"
+            }
+          ]
+        },
+        "revision": "author-revision-1"
+      }
+    ],
+    "revision_candidates": [
+      {
+        "id": "semantic-revision-candidate-d3caa0e770bd397c84f1",
+        "surface": "plot.sequence",
+        "authority_class": "candidate_semantic",
+        "revision": "semantic-candidate-revision-d3caa0e770bd397c84f1",
+        "target_id": "SCN-000002",
+        "base_revision": "author-revision-1",
+        "proposed_changes": {
+          "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone immediately after the publicly completed High Count, whose verified anomaly remains known only to Nari and Orem",
+          "required_movements": [
+            "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
+            "Nari enters a forbidden service way using ordinary apprentice knowledge",
+            "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+            "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+            "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+            "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+            "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+            "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+            "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+          ],
+          "dependencies": [
+            "AC-000003",
+            "AC-000011",
+            "AC-000013",
+            "AC-000014",
+            "AC-000015",
+            "AC-000016",
+            "AC-000017",
+            "AC-000018",
+            "AC-000019"
+          ],
+          "reader_information": {
+            "may_reveal": [
+              "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
+              "Nari enters a forbidden service way using ordinary apprentice knowledge",
+              "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+              "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+              "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+              "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+              "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+              "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+              "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+            ],
+            "must_conceal": [
+              "preserve the mystery of the builders",
+              "do not classify the God-Stone or lower chamber by true function",
+              "keep all mechanism labels provisional from Nari’s perspective",
+              "keep Master Orem’s knowledge partial",
+              "preserve the final answering-light consequence for Scene 3",
+              "preserve pre-technological viewpoint vocabulary"
+            ]
+          }
+        },
+        "identity_operation": "revision",
+        "replacement_id": null,
+        "material_dependencies": [
+          {
+            "target_id": "AC-000018",
+            "target_revision": "accepted-revision-8268f471d1fb402c94f1",
+            "authority_basis": "accepted",
+            "material": true
+          },
+          {
+            "target_id": "AC-000019",
+            "target_revision": "accepted-revision-861c20b65cf9777553a5",
+            "authority_basis": "accepted",
+            "material": true
+          }
+        ],
+        "assumptions": [],
+        "status": "accepted"
+      }
+    ],
+    "revision_acceptance_history": [
+      {
+        "candidate_id": "semantic-revision-candidate-d3caa0e770bd397c84f1",
+        "candidate_revision": "semantic-candidate-revision-d3caa0e770bd397c84f1",
+        "candidate_snapshot": {
+          "id": "semantic-revision-candidate-d3caa0e770bd397c84f1",
+          "surface": "plot.sequence",
+          "authority_class": "candidate_semantic",
+          "revision": "semantic-candidate-revision-d3caa0e770bd397c84f1",
+          "target_id": "SCN-000002",
+          "base_revision": "author-revision-1",
+          "proposed_changes": {
+            "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone immediately after the publicly completed High Count, whose verified anomaly remains known only to Nari and Orem",
+            "required_movements": [
+              "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
+              "Nari enters a forbidden service way using ordinary apprentice knowledge",
+              "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+              "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+              "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+              "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+              "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+              "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+              "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+            ],
+            "dependencies": [
+              "AC-000003",
+              "AC-000011",
+              "AC-000013",
+              "AC-000014",
+              "AC-000015",
+              "AC-000016",
+              "AC-000017",
+              "AC-000018",
+              "AC-000019"
+            ],
+            "reader_information": {
+              "may_reveal": [
+                "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
+                "Nari enters a forbidden service way using ordinary apprentice knowledge",
+                "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+                "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+                "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+                "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+                "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+                "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+                "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+              ],
+              "must_conceal": [
+                "preserve the mystery of the builders",
+                "do not classify the God-Stone or lower chamber by true function",
+                "keep all mechanism labels provisional from Nari’s perspective",
+                "keep Master Orem’s knowledge partial",
+                "preserve the final answering-light consequence for Scene 3",
+                "preserve pre-technological viewpoint vocabulary"
+              ]
+            }
+          },
+          "identity_operation": "revision",
+          "replacement_id": null,
+          "material_dependencies": [
+            {
+              "target_id": "AC-000018",
+              "target_revision": "accepted-revision-8268f471d1fb402c94f1",
+              "authority_basis": "accepted",
+              "material": true
+            },
+            {
+              "target_id": "AC-000019",
+              "target_revision": "accepted-revision-861c20b65cf9777553a5",
+              "authority_basis": "accepted",
+              "material": true
+            }
+          ],
+          "assumptions": [],
+          "status": "accepted"
+        },
+        "from_revision": "author-revision-1",
+        "to_revision": "semantic-revision-2a057e6cfb9d668a8fd0",
+        "identity_operation": "revision",
+        "target_id": "SCN-000002",
+        "result_target_id": "SCN-000002"
+      }
+    ],
+    "last_revision_acceptance": {
+      "candidate_id": "semantic-revision-candidate-d3caa0e770bd397c84f1",
+      "candidate_revision": "semantic-candidate-revision-d3caa0e770bd397c84f1",
+      "candidate_snapshot": {
+        "id": "semantic-revision-candidate-d3caa0e770bd397c84f1",
+        "surface": "plot.sequence",
+        "authority_class": "candidate_semantic",
+        "revision": "semantic-candidate-revision-d3caa0e770bd397c84f1",
+        "target_id": "SCN-000002",
+        "base_revision": "author-revision-1",
+        "proposed_changes": {
+          "setting": "upper temple service ways and forbidden lower temple beneath the God-Stone immediately after the publicly completed High Count, whose verified anomaly remains known only to Nari and Orem",
+          "required_movements": [
+            "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
+            "Nari enters a forbidden service way using ordinary apprentice knowledge",
+            "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+            "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+            "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+            "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+            "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+            "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+            "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+          ],
+          "dependencies": [
+            "AC-000003",
+            "AC-000011",
+            "AC-000013",
+            "AC-000014",
+            "AC-000015",
+            "AC-000016",
+            "AC-000017",
+            "AC-000018",
+            "AC-000019"
+          ],
+          "reader_information": {
+            "may_reveal": [
+              "Nari follows the privately verified anomaly after the publicly completed High Count and chooses inquiry despite fear and Orem’s warning",
+              "Nari enters a forbidden service way using ordinary apprentice knowledge",
+              "familiar temple architecture gives way to precision that exceeds the categories she uses to understand built things",
+              "Nari encounters the underside of the God-Stone and records observable features without deciding what it is",
+              "the chamber repeats or corresponds with the broken seven-and-seven count in a reproducible way",
+              "Nari tests at least one observation and receives a consistent response, gaining operational evidence rather than explanation",
+              "the success of the test frightens Nari more than failure would have because it confirms that the anomaly is real",
+              "Orem’s approach introduces both human danger and the possibility that his fear has an empirical history",
+              "Nari exits the scene with stronger evidence, deeper fear, and less confidence that evidence will produce comprehension"
+            ],
+            "must_conceal": [
+              "preserve the mystery of the builders",
+              "do not classify the God-Stone or lower chamber by true function",
+              "keep all mechanism labels provisional from Nari’s perspective",
+              "keep Master Orem’s knowledge partial",
+              "preserve the final answering-light consequence for Scene 3",
+              "preserve pre-technological viewpoint vocabulary"
+            ]
+          }
+        },
+        "identity_operation": "revision",
+        "replacement_id": null,
+        "material_dependencies": [
+          {
+            "target_id": "AC-000018",
+            "target_revision": "accepted-revision-8268f471d1fb402c94f1",
+            "authority_basis": "accepted",
+            "material": true
+          },
+          {
+            "target_id": "AC-000019",
+            "target_revision": "accepted-revision-861c20b65cf9777553a5",
+            "authority_basis": "accepted",
+            "material": true
+          }
+        ],
+        "assumptions": [],
+        "status": "accepted"
+      },
+      "from_revision": "author-revision-1",
+      "to_revision": "semantic-revision-2a057e6cfb9d668a8fd0",
+      "identity_operation": "revision",
+      "target_id": "SCN-000002",
+      "result_target_id": "SCN-000002"
+    },
+    "dependency_relations": [
+      {
+        "target_id": "AC-000018",
+        "target_revision": "accepted-revision-8268f471d1fb402c94f1",
+        "authority_basis": "accepted",
+        "material": true
+      },
+      {
+        "target_id": "AC-000019",
+        "target_revision": "accepted-revision-861c20b65cf9777553a5",
+        "authority_basis": "accepted",
+        "material": true
+      }
+    ]
   },
   {
     "id": "SCN-000003",

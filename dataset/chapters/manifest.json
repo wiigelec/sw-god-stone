@@ -1,6 +1,77 @@
 {
   "format": "markdown",
   "files": [
-    "scene-01.md"
+    {
+      "id": "manuscript-SCN-000001",
+      "surface": "manuscript",
+      "authority_class": "accepted_manuscript",
+      "revision": "normalized-manuscript-revision-c1da188233db71c2ffb7",
+      "ordinal": 1,
+      "plot_scope": "SCN-000001",
+      "path": "chapters/scene-01.md",
+      "normalization_provenance": {
+        "operation": "manuscript_manifest_normalization",
+        "source_commit": "6bfe1f4d033b33d45b66b00ba2c8ce935413295a",
+        "source_path": "chapters/scene-01.md",
+        "source_content_sha256": "b3f7bc5141e3068ea91269c7f2a18f1a0117b0dcabb826433897c2e470e22f14",
+        "acceptance_basis": "author-confirmed during manuscript manifest normalization",
+        "generation_provenance_available": false
+      }
+    },
+    {
+      "id": "manuscript-SCN-000002",
+      "surface": "manuscript",
+      "authority_class": "accepted_manuscript",
+      "revision": "manuscript-revision-e7b903b88f0725324f9c",
+      "ordinal": 2,
+      "plot_scope": "SCN-000002",
+      "path": "chapters/002-SCN-000002.md",
+      "generation_package_id": "package-4c4fe83ccbacba26c364",
+      "generation_provenance": {
+        "package_id": "package-4c4fe83ccbacba26c364",
+        "contract_id": "contract-89cd54e942d70e651648",
+        "package_digest": "05b9329a3d00ac4c555a7e12319789d905c083a264cc9804c055c20fdc313a71",
+        "selected_revisions": {
+          "scene": "semantic-revision-2a057e6cfb9d668a8fd0",
+          "dependencies": {
+            "AC-000003": "imported-revision-3e04574e7646405b684f",
+            "AC-000011": "imported-revision-aeec8587962a467a2f9f",
+            "AC-000013": "author-revision-1",
+            "AC-000014": "author-revision-1",
+            "AC-000015": "author-revision-1",
+            "AC-000016": "author-revision-2",
+            "AC-000017": "author-revision-2",
+            "AC-000018": "accepted-revision-8268f471d1fb402c94f1",
+            "AC-000019": "accepted-revision-861c20b65cf9777553a5"
+          },
+          "prose_controls": {
+            "beats": {
+              "BEATS-SCN-000002": "accepted-revision-d262b68568ae5b736ac1"
+            },
+            "modes": {
+              "MODES-SCN-000002": "accepted-revision-728c4d79988ed43d9451"
+            },
+            "pseudo_prose": {
+              "PPL-000002": "accepted-revision-79a9758489ae51584c97"
+            }
+          },
+          "prior_manuscript": {
+            "manuscript-SCN-000001": "normalized-manuscript-revision-c1da188233db71c2ffb7"
+          },
+          "current_target_manuscript": {},
+          "style_profile": {
+            "STYLE-000001": "style-d925ea8a72d38612bc7a"
+          }
+        }
+      },
+      "review": {
+        "outcome": "conforming",
+        "candidate_id": "candidate-12c74d25bf68d823b77a",
+        "package_id": "package-4c4fe83ccbacba26c364",
+        "findings": [],
+        "unresolved_consequential_dependencies": []
+      },
+      "accepted_from_candidate": "candidate-12c74d25bf68d823b77a"
+    }
   ]
 }
