@@ -181,7 +181,7 @@
         "unit_id": "PPLU-018",
         "primary_mode": "dialogue",
         "beat_label": "Orem approaches",
-        "content_movement": "Footsteps descend and Orem calls Nari by name while the chamber responds again, joining his human fear to the incomprehensible phenomenon without explaining either.",
+        "content_movement": "Footsteps descend and Orem calls Nari by name while the chamber responds again. His reaction carries recognition as well as fear, suggesting prior evidence or inherited experience without revealing what he knows, how he knows it, or what the phenomenon means.",
         "emotional_register": "dread and unresolved consequence",
         "transition_role": "scene_exit"
       }
@@ -198,24 +198,24 @@
     "dependency_relations": [
       {
         "target_id": "SCN-000002",
-        "target_revision": "author-revision-1",
+        "target_revision": "semantic-revision-2a057e6cfb9d668a8fd0",
         "authority_basis": "accepted",
         "material": true
       },
       {
         "target_id": "BEATS-SCN-000002",
-        "target_revision": "candidate-revision-1b45473390b0bb184a74",
+        "target_revision": "candidate-revision-c59bab8782d82f93d690",
         "authority_basis": "candidate",
         "material": true
       },
       {
         "target_id": "MODES-SCN-000002",
-        "target_revision": "candidate-revision-976d1cf117cdf0be796f",
+        "target_revision": "candidate-revision-f4f1166ab5ad369cf9f6",
         "authority_basis": "candidate",
         "material": true
       }
     ],
-    "revision": "candidate-revision-f8df225a043af3423f48",
+    "revision": "candidate-revision-151bf084109a0e9f282a",
     "candidate_revision_history": [
       {
         "id": "PPL-000002",
@@ -329,6 +329,119 @@
           }
         ],
         "revision": "author-revision-1"
+      },
+      {
+        "id": "PPL-000002",
+        "surface": "prose.pseudo_prose",
+        "authority_class": "production_candidate",
+        "layout_status": "ready_for_generation_package",
+        "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
+        "opening_shape": "Nari follows verified evidence into a place her inherited categories cannot adequately describe",
+        "closing_shape": "repeatable response has increased knowledge while reducing confidence in comprehension",
+        "units": [
+          {
+            "unit_id": "PPLU-010",
+            "primary_mode": "internal",
+            "beat_label": "Descent under uncertainty",
+            "content_movement": "Nari continues directly from the public High Count with the slate evidence while the ceremony disperses normally above her. She is afraid of sacrilege and of being right, but follows the correspondence rather than framing the choice as truth against obedience.",
+            "emotional_register": "quiet dread and compulsion",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-011",
+            "primary_mode": "action",
+            "beat_label": "Service way",
+            "content_movement": "Nari uses ordinary apprentice knowledge to enter the forbidden service route; familiar competence carries her only to the boundary of the unfamiliar.",
+            "emotional_register": "furtive competence",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-012",
+            "primary_mode": "exposition",
+            "beat_label": "Categories fail",
+            "content_movement": "Stonework and temple forms give way gradually to surfaces, regularities, and precision that Nari can describe but cannot fit comfortably into her concepts of craft or sacred architecture.",
+            "emotional_register": "uncanny dislocation",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-013",
+            "primary_mode": "action",
+            "beat_label": "Underside observed",
+            "content_movement": "Nari encounters the lower presence of the God-Stone and records concrete features and correspondences, resisting the urge to decide what the thing is.",
+            "emotional_register": "awe and restraint",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-014",
+            "primary_mode": "exposition",
+            "beat_label": "Broken count",
+            "content_movement": "Light, spacing, silence, or another observable feature repeats the broken seven-and-seven rhythm associated with the wrong-moving star.",
+            "emotional_register": "recognition and dread",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-015",
+            "primary_mode": "action",
+            "beat_label": "Deliberate test",
+            "content_movement": "Nari repeats one controlled observation or action and receives the same bounded response again. Keep the act simple enough to establish reproducibility without implying she has discovered a command language.",
+            "emotional_register": "tense concentration",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-016",
+            "primary_mode": "internal",
+            "beat_label": "Success is worse",
+            "content_movement": "The repeated result frightens Nari more than failure would have. She now knows the phenomenon is responsive in some reliable way while knowing no more about what it is.",
+            "emotional_register": "terrible verification",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-017",
+            "primary_mode": "internal",
+            "beat_label": "Knowledge without comprehension",
+            "content_movement": "Nari recognizes the unsettling possibility that careful human methods can yield useful patterns while the reality producing those patterns remains beyond the mind that discovered them.",
+            "emotional_register": "epistemic vertigo",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-018",
+            "primary_mode": "dialogue",
+            "beat_label": "Orem approaches",
+            "content_movement": "Footsteps descend and Orem calls Nari by name while the chamber responds again, joining his human fear to the incomprehensible phenomenon without explaining either.",
+            "emotional_register": "dread and unresolved consequence",
+            "transition_role": "scene_exit"
+          }
+        ],
+        "legacy_status": "committed_intermediate",
+        "legacy_revision": 2,
+        "candidate_status": "candidate",
+        "target_scope": "SCN-000002",
+        "dependencies": [
+          "SCN-000002",
+          "BEATS-SCN-000002",
+          "MODES-SCN-000002"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000002",
+            "target_revision": "author-revision-1",
+            "authority_basis": "accepted",
+            "material": true
+          },
+          {
+            "target_id": "BEATS-SCN-000002",
+            "target_revision": "candidate-revision-1b45473390b0bb184a74",
+            "authority_basis": "candidate",
+            "material": true
+          },
+          {
+            "target_id": "MODES-SCN-000002",
+            "target_revision": "candidate-revision-976d1cf117cdf0be796f",
+            "authority_basis": "candidate",
+            "material": true
+          }
+        ],
+        "revision": "candidate-revision-f8df225a043af3423f48"
       }
     ]
   },

@@ -43,7 +43,7 @@
       "successful repetition gives Nari operational knowledge while making the underlying phenomenon less comprehensible",
       "the confirmation frightens Nari because the unknown is responsive rather than imaginary",
       "Nari confronts the possibility that human methods can produce reliable knowledge without producing understanding",
-      "Orem approaches as the chamber responds again, joining human fear to the incomprehensible phenomenon"
+      "Orem approaches as the chamber responds again; his reaction carries enough recognition to suggest that his fear may come from prior evidence or inherited experience, without revealing what he knows or how he knows it"
     ],
     "legacy_revision": 4,
     "candidate_status": "candidate",
@@ -54,12 +54,12 @@
     "dependency_relations": [
       {
         "target_id": "SCN-000002",
-        "target_revision": "author-revision-1",
+        "target_revision": "semantic-revision-2a057e6cfb9d668a8fd0",
         "authority_basis": "accepted",
         "material": true
       }
     ],
-    "revision": "candidate-revision-1b45473390b0bb184a74",
+    "revision": "candidate-revision-c59bab8782d82f93d690",
     "candidate_revision_history": [
       {
         "id": "BEATS-SCN-000002",
@@ -92,6 +92,38 @@
           }
         ],
         "revision": "author-revision-1"
+      },
+      {
+        "id": "BEATS-SCN-000002",
+        "surface": "prose.beats",
+        "authority_class": "production_candidate",
+        "beats": [
+          "Nari follows the verified lower-temple correspondence immediately after the public High Count concludes, despite fear and despite nearly everyone above believing the ritual confirmed the expected order.",
+          "Nari enters the forbidden service way using ordinary apprentice knowledge",
+          "familiar temple architecture gives way to precision that exceeds the categories available to her",
+          "Nari encounters the underside of the God-Stone and records what she can observe without deciding what it is",
+          "the chamber reproduces the broken seven-and-seven correspondence",
+          "Nari deliberately repeats one observation or action and receives a consistent response",
+          "successful repetition gives Nari operational knowledge while making the underlying phenomenon less comprehensible",
+          "the confirmation frightens Nari because the unknown is responsive rather than imaginary",
+          "Nari confronts the possibility that human methods can produce reliable knowledge without producing understanding",
+          "Orem approaches as the chamber responds again, joining human fear to the incomprehensible phenomenon"
+        ],
+        "legacy_revision": 4,
+        "candidate_status": "candidate",
+        "target_scope": "SCN-000002",
+        "dependencies": [
+          "SCN-000002"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000002",
+            "target_revision": "author-revision-1",
+            "authority_basis": "accepted",
+            "material": true
+          }
+        ],
+        "revision": "candidate-revision-1b45473390b0bb184a74"
       }
     ]
   },
