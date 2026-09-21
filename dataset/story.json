@@ -15,19 +15,19 @@
   "open_questions": [
     {
       "id": "OQ-000001",
-      "revision": 1,
+      "revision": 2,
       "status": "open",
-      "question": "Are the ancient builders absent, extinct, sleeping, observing, returning, or otherwise present only through their infrastructure?",
-      "context": "Open design question extracted during Scene 1 workflow preparation. It is not resolved by the Scene 1 prose candidate.",
+      "question": "What observable manifestations of builder presence, if any, can humans encounter without being able to characterize what that presence ultimately is?",
+      "context": "The builders are canonically beyond ordinary human categories such as organism, body, species, physicality, individuality, or personhood. This question therefore concerns observable manifestations rather than resolving builder ontology.",
       "question_class": "worldbuilding",
       "priority": "normal"
     },
     {
       "id": "OQ-000002",
-      "revision": 1,
+      "revision": 2,
       "status": "open",
-      "question": "Is the temple mechanism a beacon, warning system, lock, receiver, containment system, listening post, or something else?",
-      "context": "Open design question extracted during Scene 1 workflow preparation. It is not resolved by the Scene 1 prose candidate.",
+      "question": "What repeatable behaviors can humans discover in the God-Stone and temple system without mistaking those behaviors for understanding the system’s actual nature or purpose?",
+      "context": "Builder technology is canonically beyond human cognitive comprehension. Humans may discover reliable operational patterns, but labels such as beacon, warning system, lock, receiver, or containment system are provisional human models rather than ultimate explanations.",
       "question_class": "worldbuilding",
       "priority": "normal"
     },
@@ -42,10 +42,10 @@
     },
     {
       "id": "OQ-000004",
-      "revision": 1,
+      "revision": 2,
       "status": "open",
-      "question": "How much does Master Orem or the priesthood know, suspect, fear, or deliberately suppress?",
-      "context": "Open design question extracted during Scene 1 workflow preparation. It is not resolved by the Scene 1 prose candidate.",
+      "question": "What experiences, inherited warnings, or observed consequences taught Master Orem to fear anomalous evidence strongly enough that caution hardened into attachment to established truths?",
+      "context": "Orem’s resistance and fear are now accepted Canon. What remains open is the history and evidence that shaped him, including how much the priesthood has actually observed and preserved.",
       "question_class": "character",
       "priority": "normal"
     }

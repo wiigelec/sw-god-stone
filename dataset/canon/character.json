@@ -38,28 +38,28 @@
     "id": "AC-000016",
     "surface": "canon.character",
     "authority_class": "accepted_semantic",
-    "assertion": "Master Orem protects the inherited explanatory order when persistent anomalous evidence threatens it. His failure mode is institutional certainty hardened into dogma: he initially treats contradiction as error or danger rather than as reason to revise the prevailing model.",
+    "assertion": "Master Orem has spent a lifetime within an inherited explanatory order that has repeatedly proven useful and meaningful. Age, accumulated experience, responsibility, identity, and fear make him increasingly resistant to evidence that threatens those established truths. His rigidity is not simple ignorance; it is the hardened form of caution and fear.",
     "open_question_refs": [
       "OQ-000004"
     ],
     "provenance": {
       "source": "author_acceptance",
       "accepted_date": "2026-09-21",
-      "note": "Accepted during Canon consolidation."
+      "note": "Revised during Canon consolidation to emphasize age, accumulated experience, and fear rather than simple dogmatism."
     },
-    "revision": "author-revision-1"
+    "revision": "author-revision-2"
   },
   "AC-000017": {
     "id": "AC-000017",
     "surface": "canon.character",
     "authority_class": "accepted_semantic",
-    "assertion": "Nari privileges repeated observation and evidence over doctrine. When evidence survives careful checking, she treats the prevailing model as potentially incomplete, while not assuming that better evidence grants ultimate comprehension.",
+    "assertion": "Nari’s youth leaves her less invested in inherited explanations. Her curiosity and attention to repeated evidence make her willing to question established truths when observation contradicts them. She feels genuine fear, but curiosity presently outweighs it; her strength is willingness to revise rather than certainty that she understands.",
     "open_question_refs": [],
     "provenance": {
       "source": "author_acceptance",
       "accepted_date": "2026-09-21",
-      "note": "Accepted during Canon consolidation."
+      "note": "Revised during Canon consolidation to establish youthful curiosity, genuine fear, and epistemic humility."
     },
-    "revision": "author-revision-1"
+    "revision": "author-revision-2"
   }
 }
