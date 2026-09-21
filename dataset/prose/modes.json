@@ -85,7 +85,7 @@
   "MODES-SCN-000002": {
     "id": "MODES-SCN-000002",
     "surface": "prose.modes",
-    "authority_class": "production_candidate",
+    "authority_class": "production_approved",
     "target_scope": "SCN-000002",
     "assignments": [
       {
@@ -164,8 +164,8 @@
     "dependency_relations": [
       {
         "target_id": "BEATS-SCN-000002",
-        "target_revision": "candidate-revision-c59bab8782d82f93d690",
-        "authority_basis": "candidate",
+        "target_revision": "accepted-revision-d262b68568ae5b736ac1",
+        "authority_basis": "accepted",
         "material": true
       },
       {
@@ -175,7 +175,7 @@
         "material": true
       }
     ],
-    "revision": "candidate-revision-f4f1166ab5ad369cf9f6",
+    "revision": "accepted-revision-728c4d79988ed43d9451",
     "candidate_revision_history": [
       {
         "id": "MODES-SCN-000002",
@@ -367,7 +367,23 @@
         ],
         "revision": "candidate-revision-976d1cf117cdf0be796f"
       }
-    ]
+    ],
+    "accepted_from_candidate_revision": "candidate-revision-f4f1166ab5ad369cf9f6",
+    "acceptance": {
+      "operation": "production_approval",
+      "scope": "MODES-SCN-000002",
+      "candidate_revision": "candidate-revision-f4f1166ab5ad369cf9f6",
+      "accepted_revision": "accepted-revision-728c4d79988ed43d9451",
+      "coordination": {
+        "operation": "coordinated_acceptance",
+        "decision_id": "coordinated-acceptance-3aa8fab0d89ddb931f26",
+        "related_scopes": [
+          "BEATS-SCN-000002",
+          "MODES-SCN-000002",
+          "PPL-000002"
+        ]
+      }
+    }
   },
   "MODES-SCN-000003": {
     "id": "MODES-SCN-000003",
