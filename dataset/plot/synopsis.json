@@ -2,8 +2,8 @@
   "id": "SYN-000001",
   "surface": "plot.synopsis",
   "authority_class": "candidate_semantic",
-  "title": "Minimal post-canon plot synopsis",
-  "text": "Nari, a low-status apprentice sky-reader, witnesses a violation in the sacred count: the seventh star in the seventh cluster moves wrong. She verifies the anomaly on her slate, but Master Orem suppresses the warning. The lens reveals that the wrongness points below, toward the hidden lower temple beneath the God-Stone.\n\nNari follows the lens’s implication into forbidden temple spaces. Beneath the public sacred order, she finds the underside of the God-Stone and a chamber that echoes the broken seven-and-seven count signaled by the wrong-moving star. The temple’s architecture, silence, and light suggest that the sky and the lower chamber are part of the same pattern.\n\nIn the final confrontation, Orem’s fear and inherited warning press against Nari’s witnessed truth. The broken seven-and-seven count gathers in the God-Stone, the lower chamber, and the wrong-moving star. When the pattern completes, the answering light comes. The contact is decisive, and its full meaning remains open.",
+  "title": "Epistemic humility plot synopsis",
+  "text": "Nari, a low-status apprentice sky-reader, witnesses a violation in the sacred count: the seventh star in the seventh cluster moves wrong. Afraid that the fault may be hers, she checks the lens, repeats the count, and preserves the result on her slate. The anomaly remains. Master Orem, whose lifetime of experience has taught him to trust the inherited order and fear departures from it, suppresses the warning rather than treat a single contradiction as reason to overturn established truth. The lens then shows a repeatable correspondence between the wrong-moving star and the forbidden lower temple beneath the God-Stone, and Nari’s curiosity outweighs her fear.\n\nNari descends into forbidden temple spaces and discovers that the inherited model is incomplete, but not what should replace it. Beneath the public sacred order, the underside of the God-Stone and the lower chamber exhibit precise, repeatable correspondences with the broken seven-and-seven count. Each observation rewards Nari’s curiosity while making the phenomenon more frightening: she can establish patterns and consequences, yet cannot determine what the system is, what it is for, or what kind of agency might be involved. By the time Orem calls to her from above, Nari has begun to understand why someone could learn to fear inquiry without accepting that fear as a reason to stop.\n\nIn the final confrontation, Orem’s accumulated fear and inherited warning meet Nari’s curiosity, evidence, and growing dread. He reveals enough of the experiences behind his caution to make his resistance credible, while the chamber continues the broken count in ways neither of them can explain. Nari chooses to complete or permit the final observed pattern despite understanding the danger no better than Orem does. The God-Stone, lower chamber, and wrong-moving star enter a synchronized correspondence, and the answering light comes. Nari is vindicated only in the limited sense that the inherited explanation was incomplete; Orem is vindicated only in the limited sense that there was something real to fear. Neither gains comprehension. The contact leaves certainty broken and the deeper reality more unknowable than before.",
   "legacy_status": "committed_intermediate",
   "open_question_refs": [
     "OQ-000001",
@@ -11,7 +11,7 @@
     "OQ-000003",
     "OQ-000004"
   ],
-  "legacy_revision": 1,
+  "legacy_revision": 2,
   "candidate_status": "candidate",
-  "revision": "imported-revision-e693c3d2d745dfae0d82"
+  "revision": "author-revision-1"
 }

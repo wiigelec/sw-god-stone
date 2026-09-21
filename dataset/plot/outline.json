@@ -10,23 +10,23 @@
       {
         "id": "SCN-000001",
         "entity_type": "scene",
-        "revision": 2
+        "revision": 3
       },
       {
         "id": "SCN-000002",
         "entity_type": "scene",
-        "revision": 3
+        "revision": 4
       },
       {
         "id": "SCN-000003",
         "entity_type": "scene",
-        "revision": 3
+        "revision": 4
       }
     ],
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 2,
+    "legacy_revision": 3,
     "candidate_status": "candidate",
-    "revision": "imported-revision-2f7e3734be83b34b9ee9"
+    "revision": "author-revision-1"
   },
   {
     "id": "STR-000001",
@@ -35,16 +35,16 @@
     "title": "The Star That Moved Wrong",
     "ordinal": 1,
     "structural_role": "inciting_disturbance",
-    "plot_function": "Establish ritual order, Nari’s skilled low-status viewpoint, the seventh-star anomaly, Master Orem’s suppression, the slate as witness, and the lower-temple implication.",
+    "plot_function": "Establish ritual order and the generational contrast between Nari’s youthful curiosity and Orem’s accumulated trust in established truths. Nari carefully verifies the seventh-star anomaly because she fears being wrong; Orem suppresses the warning from experience and fear rather than ignorance. End with a repeatable lower-temple correspondence that gives Nari reason to investigate.",
     "scene_ref": {
       "id": "SCN-000001",
       "entity_type": "scene",
-      "revision": 2
+      "revision": 3
     },
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 1,
+    "legacy_revision": 2,
     "candidate_status": "candidate",
-    "revision": "imported-revision-9c53f20a25e7cba1d073"
+    "revision": "author-revision-1"
   },
   {
     "id": "STR-000002",
@@ -53,16 +53,16 @@
     "title": "Beneath the God-Stone",
     "ordinal": 2,
     "structural_role": "descent_and_discovery",
-    "plot_function": "Carry Nari from private resolve into forbidden descent and discovery that the God-Stone hides a lower presence connected to the wrong-moving star through the broken seven-and-seven count.",
+    "plot_function": "Reward and punish Nari’s curiosity. Her forbidden descent establishes repeatable correspondences between the wrong-moving star, the God-Stone, and the lower chamber, proving the inherited model incomplete without providing a replacement explanation. The encounter should deepen both her evidence and her fear, beginning to show her why Orem became cautious.",
     "scene_ref": {
       "id": "SCN-000002",
       "entity_type": "scene",
-      "revision": 3
+      "revision": 4
     },
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 1,
+    "legacy_revision": 2,
     "candidate_status": "candidate",
-    "revision": "imported-revision-5101f49e258b88d8fac8"
+    "revision": "author-revision-1"
   },
   {
     "id": "STR-000003",
@@ -71,15 +71,15 @@
     "title": "The Answering Light",
     "ordinal": 3,
     "structural_role": "contact_resolution",
-    "plot_function": "Resolve the three-scene arc through confrontation, choice, seven-and-seven completion, and the answering light.",
+    "plot_function": "Bring Orem’s fear and Nari’s curiosity into direct confrontation. Orem reveals enough history to make his caution credible; Nari proceeds despite sharing some of that fear. The answering light follows a completed observed pattern, confirming that something real responded while denying both characters an ultimate explanation.",
     "scene_ref": {
       "id": "SCN-000003",
       "entity_type": "scene",
-      "revision": 3
+      "revision": 4
     },
     "legacy_status": "committed_intermediate",
-    "legacy_revision": 1,
+    "legacy_revision": 2,
     "candidate_status": "candidate",
-    "revision": "imported-revision-42cda6a68d173e67357d"
+    "revision": "author-revision-1"
   }
 ]
