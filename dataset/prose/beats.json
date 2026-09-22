@@ -145,24 +145,23 @@
   "BEATS-SCN-000003": {
     "id": "BEATS-SCN-000003",
     "surface": "prose.beats",
-    "authority_class": "production_candidate",
+    "authority_class": "production_approved",
     "beats": [
       "Orem reaches the threshold trying to prevent an encounter he believes may have consequences neither of them can understand",
       "Nari answers him with observations and repeated results rather than a claim to understand what they mean",
-      "Orem reveals enough of his history to show that he once pursued questions until fear progressively narrowed what he was willing to investigate",
+      "Orem reveals enough from earlier experience, inherited warning, or both to show how repeated exposure to dangerous uncertainty narrowed what he was willing to investigate",
       "Orem confronts remorse that fear may have protected him while also closing off knowledge he can no longer recover",
       "Nari sees that Orem is not simply opposing knowledge; he is one human response to knowledge that exceeded his ability to make safe or meaningful",
       "the chamber continues the broken count independently of their argument",
       "Nari hesitates as she understands that curiosity can reveal realities whose consequences remain unknowable",
       "neither Nari nor Orem can establish whether intervention or restraint is safer",
       "Nari completes or permits the observed pattern without claiming that her choice is correct",
-      "the God-Stone, lower chamber, and wrong-moving star enter synchronized correspondence",
+      "the God-Stone and lower chamber enter synchronized correspondence with the recorded pattern of the wrong-moving star, without giving Nari direct observational access to the sky",
       "the answering light comes as a genuine response while agency, purpose, mechanism, and consequence remain beyond them",
-      "Orem is left with the cost of questions abandoned; Nari is left with the cost of questions pursued",
+      "Orem confronts knowledge his restraint may have cost him, while Nari can no longer treat continued inquiry as harmless; neither can establish what the safer choice would have been",
       "the ending leaves both characters with more evidence and no adequate human explanation"
     ],
     "legacy_revision": 4,
-    "candidate_status": "candidate",
     "target_scope": "SCN-000003",
     "dependencies": [
       "SCN-000003"
@@ -170,11 +169,99 @@
     "dependency_relations": [
       {
         "target_id": "SCN-000003",
-        "target_revision": "author-revision-2",
+        "target_revision": "semantic-revision-352d5d84d7a30f36c200",
         "authority_basis": "accepted",
         "material": true
       }
     ],
-    "revision": "author-revision-1"
+    "revision": "accepted-revision-2238bf1b760778b58f97",
+    "candidate_revision_history": [
+      {
+        "id": "BEATS-SCN-000003",
+        "surface": "prose.beats",
+        "authority_class": "production_candidate",
+        "beats": [
+          "Orem reaches the threshold trying to prevent an encounter he believes may have consequences neither of them can understand",
+          "Nari answers him with observations and repeated results rather than a claim to understand what they mean",
+          "Orem reveals enough of his history to show that he once pursued questions until fear progressively narrowed what he was willing to investigate",
+          "Orem confronts remorse that fear may have protected him while also closing off knowledge he can no longer recover",
+          "Nari sees that Orem is not simply opposing knowledge; he is one human response to knowledge that exceeded his ability to make safe or meaningful",
+          "the chamber continues the broken count independently of their argument",
+          "Nari hesitates as she understands that curiosity can reveal realities whose consequences remain unknowable",
+          "neither Nari nor Orem can establish whether intervention or restraint is safer",
+          "Nari completes or permits the observed pattern without claiming that her choice is correct",
+          "the God-Stone, lower chamber, and wrong-moving star enter synchronized correspondence",
+          "the answering light comes as a genuine response while agency, purpose, mechanism, and consequence remain beyond them",
+          "Orem is left with the cost of questions abandoned; Nari is left with the cost of questions pursued",
+          "the ending leaves both characters with more evidence and no adequate human explanation"
+        ],
+        "legacy_revision": 4,
+        "candidate_status": "candidate",
+        "target_scope": "SCN-000003",
+        "dependencies": [
+          "SCN-000003"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000003",
+            "target_revision": "author-revision-2",
+            "authority_basis": "accepted",
+            "material": true
+          }
+        ],
+        "revision": "author-revision-1"
+      },
+      {
+        "id": "BEATS-SCN-000003",
+        "surface": "prose.beats",
+        "authority_class": "production_candidate",
+        "beats": [
+          "Orem reaches the threshold trying to prevent an encounter he believes may have consequences neither of them can understand",
+          "Nari answers him with observations and repeated results rather than a claim to understand what they mean",
+          "Orem reveals enough from earlier experience, inherited warning, or both to show how repeated exposure to dangerous uncertainty narrowed what he was willing to investigate",
+          "Orem confronts remorse that fear may have protected him while also closing off knowledge he can no longer recover",
+          "Nari sees that Orem is not simply opposing knowledge; he is one human response to knowledge that exceeded his ability to make safe or meaningful",
+          "the chamber continues the broken count independently of their argument",
+          "Nari hesitates as she understands that curiosity can reveal realities whose consequences remain unknowable",
+          "neither Nari nor Orem can establish whether intervention or restraint is safer",
+          "Nari completes or permits the observed pattern without claiming that her choice is correct",
+          "the God-Stone and lower chamber enter synchronized correspondence with the recorded pattern of the wrong-moving star, without giving Nari direct observational access to the sky",
+          "the answering light comes as a genuine response while agency, purpose, mechanism, and consequence remain beyond them",
+          "Orem confronts knowledge his restraint may have cost him, while Nari can no longer treat continued inquiry as harmless; neither can establish what the safer choice would have been",
+          "the ending leaves both characters with more evidence and no adequate human explanation"
+        ],
+        "legacy_revision": 4,
+        "candidate_status": "candidate",
+        "target_scope": "SCN-000003",
+        "dependencies": [
+          "SCN-000003"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000003",
+            "target_revision": "author-revision-2",
+            "authority_basis": "accepted",
+            "material": true
+          }
+        ],
+        "revision": "candidate-revision-fd9c3398a105fe503fee"
+      }
+    ],
+    "accepted_from_candidate_revision": "candidate-revision-f05e622335f4a96e8468",
+    "acceptance": {
+      "operation": "production_approval",
+      "scope": "BEATS-SCN-000003",
+      "candidate_revision": "candidate-revision-f05e622335f4a96e8468",
+      "accepted_revision": "accepted-revision-2238bf1b760778b58f97",
+      "coordination": {
+        "operation": "coordinated_acceptance",
+        "decision_id": "coordinated-acceptance-eb0cca0a0470d80b51ad",
+        "related_scopes": [
+          "BEATS-SCN-000003",
+          "MODES-SCN-000003",
+          "PPL-000003"
+        ]
+      }
+    }
   }
 }

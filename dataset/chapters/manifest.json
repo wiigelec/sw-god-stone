@@ -72,6 +72,59 @@
         "unresolved_consequential_dependencies": []
       },
       "accepted_from_candidate": "candidate-12c74d25bf68d823b77a"
+    },
+    {
+      "id": "manuscript-SCN-000003",
+      "surface": "manuscript",
+      "authority_class": "accepted_manuscript",
+      "revision": "manuscript-revision-542d13562c84a57779f9",
+      "ordinal": 3,
+      "plot_scope": "SCN-000003",
+      "path": "chapters/003-SCN-000003.md",
+      "generation_package_id": "package-cb5ceb2e27e8a7acdfe9",
+      "generation_provenance": {
+        "package_id": "package-cb5ceb2e27e8a7acdfe9",
+        "contract_id": "contract-d50a9316c53ef44c0b73",
+        "selected_revisions": {
+          "scene": "semantic-revision-352d5d84d7a30f36c200",
+          "dependencies": {
+            "AC-000003": "imported-revision-3e04574e7646405b684f",
+            "AC-000011": "imported-revision-aeec8587962a467a2f9f",
+            "AC-000012": "imported-revision-b99ce94cb79c608feaf1",
+            "AC-000013": "author-revision-1",
+            "AC-000014": "author-revision-1",
+            "AC-000015": "author-revision-1",
+            "AC-000016": "author-revision-2",
+            "AC-000017": "author-revision-2"
+          },
+          "prose_controls": {
+            "beats": {
+              "BEATS-SCN-000003": "accepted-revision-2238bf1b760778b58f97"
+            },
+            "modes": {
+              "MODES-SCN-000003": "accepted-revision-1aa0128d22f868cd7e3e"
+            },
+            "pseudo_prose": {
+              "PPL-000003": "accepted-revision-2cda7fd5a3fa5daef336"
+            }
+          },
+          "prior_manuscript": {
+            "manuscript-SCN-000002": "manuscript-revision-e7b903b88f0725324f9c"
+          },
+          "current_target_manuscript": {},
+          "style_profile": {
+            "STYLE-000001": "style-d925ea8a72d38612bc7a"
+          }
+        }
+      },
+      "review": {
+        "outcome": "conforming",
+        "candidate_id": "candidate-542d13562c84a57779f9",
+        "package_id": "package-cb5ceb2e27e8a7acdfe9",
+        "findings": [],
+        "unresolved_consequential_dependencies": []
+      },
+      "accepted_from_candidate": "candidate-542d13562c84a57779f9"
     }
   ]
 }

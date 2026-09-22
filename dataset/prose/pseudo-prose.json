@@ -463,7 +463,7 @@
   "PPL-000003": {
     "id": "PPL-000003",
     "surface": "prose.pseudo_prose",
-    "authority_class": "production_candidate",
+    "authority_class": "production_approved",
     "layout_status": "ready_for_generation_package",
     "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
     "opening_shape": "two human responses to the unknowable meet inside an active phenomenon neither can explain",
@@ -497,7 +497,7 @@
         "unit_id": "PPLU-022",
         "primary_mode": "dialogue",
         "beat_label": "Questions abandoned",
-        "content_movement": "Orem reveals enough of earlier encounters or inherited experience to show that he once followed anomalous questions farther than he does now, and that fear progressively narrowed what he permitted himself to seek.",
+        "content_movement": "Orem reveals enough from earlier experience, inherited warning, or both to show how repeated exposure to dangerous uncertainty narrowed what he was willing to investigate. Do not resolve whether the formative evidence was primarily personal, inherited, or both.",
         "emotional_register": "sorrow and guarded fear",
         "transition_role": "ordered_scene_progression"
       },
@@ -513,7 +513,7 @@
         "unit_id": "PPLU-024",
         "primary_mode": "exposition",
         "beat_label": "The phenomenon continues",
-        "content_movement": "The broken count advances through observable changes in chamber, God-Stone, and sky while neither character can fit those changes into a causal model.",
+        "content_movement": "The broken count advances through observable changes in the chamber and God-Stone that correspond to the already-recorded wrong-moving star pattern. Nari remains underground; do not give her direct observational access to new changes in the sky.",
         "emotional_register": "cosmic pressure",
         "transition_role": "ordered_scene_progression"
       },
@@ -545,7 +545,7 @@
         "unit_id": "PPLU-028",
         "primary_mode": "exposition",
         "beat_label": "Answering light",
-        "content_movement": "The God-Stone, lower chamber, and wrong-moving star enter synchronized correspondence and the answering light comes. Render response as undeniable while leaving source, agency, purpose, mechanism, and consequence unclassified.",
+        "content_movement": "The God-Stone and lower chamber enter synchronized correspondence with the recorded wrong-moving-star pattern and the answering light comes. Render the response as undeniable while leaving source, agency, purpose, mechanism, and consequence unclassified; do not require Nari to observe the sky directly from underground.",
         "emotional_register": "awe and terror",
         "transition_role": "climax"
       },
@@ -553,7 +553,7 @@
         "unit_id": "PPLU-029",
         "primary_mode": "internal",
         "beat_label": "Human limits",
-        "content_movement": "Nari's observations have become richer and her explanation poorer. Orem sees the cost of turning away; Nari sees the cost of continuing. Neither acquires the perspective needed to know the proper balance.",
+        "content_movement": "Orem's response makes clear that restraint has cost him something he cannot recover, while Nari can no longer treat continued inquiry as harmless. Neither can tell from what they know what the safer choice would have been, and neither acquires the perspective needed to define the proper balance.",
         "emotional_register": "humility and dread",
         "transition_role": "ordered_scene_progression"
       },
@@ -568,7 +568,6 @@
     ],
     "legacy_status": "committed_intermediate",
     "legacy_revision": 3,
-    "candidate_status": "candidate",
     "target_scope": "SCN-000003",
     "dependencies": [
       "SCN-000003",
@@ -578,23 +577,315 @@
     "dependency_relations": [
       {
         "target_id": "SCN-000003",
-        "target_revision": "author-revision-2",
+        "target_revision": "semantic-revision-352d5d84d7a30f36c200",
         "authority_basis": "accepted",
         "material": true
       },
       {
         "target_id": "BEATS-SCN-000003",
-        "target_revision": "author-revision-1",
-        "authority_basis": "candidate",
+        "target_revision": "accepted-revision-2238bf1b760778b58f97",
+        "authority_basis": "accepted",
         "material": true
       },
       {
         "target_id": "MODES-SCN-000003",
-        "target_revision": "author-revision-1",
-        "authority_basis": "candidate",
+        "target_revision": "accepted-revision-1aa0128d22f868cd7e3e",
+        "authority_basis": "accepted",
         "material": true
       }
     ],
-    "revision": "author-revision-2"
+    "revision": "accepted-revision-2cda7fd5a3fa5daef336",
+    "candidate_revision_history": [
+      {
+        "id": "PPL-000003",
+        "surface": "prose.pseudo_prose",
+        "authority_class": "production_candidate",
+        "layout_status": "ready_for_generation_package",
+        "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
+        "opening_shape": "two human responses to the unknowable meet inside an active phenomenon neither can explain",
+        "closing_shape": "answering light leaves both characters with more evidence and less confidence that evidence can become comprehension",
+        "units": [
+          {
+            "unit_id": "PPLU-019",
+            "primary_mode": "exposition",
+            "beat_label": "Active chamber",
+            "content_movement": "Re-anchor the lower chamber in the continuing broken count and Orem's arrival. The phenomenon proceeds regardless of the human disagreement around it.",
+            "emotional_register": "inescapable pressure",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-020",
+            "primary_mode": "action",
+            "beat_label": "Orem at the threshold",
+            "content_movement": "Orem enters or blocks the threshold as someone attempting to prevent consequences he cannot describe with certainty. Nari sees recognition and old fear rather than a simple antagonist's refusal.",
+            "emotional_register": "controlled dread",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-021",
+            "primary_mode": "dialogue",
+            "beat_label": "Observation without explanation",
+            "content_movement": "Nari gives Orem the observations she repeated: star, count, chamber, response. She does not claim to know what the God-Stone is doing or what the response means.",
+            "emotional_register": "urgent restraint",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-022",
+            "primary_mode": "dialogue",
+            "beat_label": "Questions abandoned",
+            "content_movement": "Orem reveals enough of earlier encounters or inherited experience to show that he once followed anomalous questions farther than he does now, and that fear progressively narrowed what he permitted himself to seek.",
+            "emotional_register": "sorrow and guarded fear",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-023",
+            "primary_mode": "internal",
+            "beat_label": "Orem's cost",
+            "content_movement": "Nari perceives remorse in Orem: caution may have protected him and others, but he cannot know what his refusal to keep asking may have kept him from learning.",
+            "emotional_register": "compassion without agreement",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-024",
+            "primary_mode": "exposition",
+            "beat_label": "The phenomenon continues",
+            "content_movement": "The broken count advances through observable changes in chamber, God-Stone, and sky while neither character can fit those changes into a causal model.",
+            "emotional_register": "cosmic pressure",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-025",
+            "primary_mode": "internal",
+            "beat_label": "Curiosity's cost",
+            "content_movement": "Nari hesitates. For the first time she fully feels that a discoverable fact can still be dangerous, and that gaining knowledge does not guarantee the capacity to understand its consequences or respond to them wisely.",
+            "emotional_register": "fear without retreat",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-026",
+            "primary_mode": "dialogue",
+            "beat_label": "No safe answer",
+            "content_movement": "Between what they observe and what Orem remembers, neither can establish that stopping the pattern is safer than allowing it to continue. Avoid turning this into a philosophical debate; uncertainty should arise from the immediate situation.",
+            "emotional_register": "helpless uncertainty",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-027",
+            "primary_mode": "action",
+            "beat_label": "Nari permits the pattern",
+            "content_movement": "Nari completes or permits the next observed step without treating the choice as courageous proof or intellectual victory. She acts while knowing she may be making a mistake.",
+            "emotional_register": "frightened commitment",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-028",
+            "primary_mode": "exposition",
+            "beat_label": "Answering light",
+            "content_movement": "The God-Stone, lower chamber, and wrong-moving star enter synchronized correspondence and the answering light comes. Render response as undeniable while leaving source, agency, purpose, mechanism, and consequence unclassified.",
+            "emotional_register": "awe and terror",
+            "transition_role": "climax"
+          },
+          {
+            "unit_id": "PPLU-029",
+            "primary_mode": "internal",
+            "beat_label": "Human limits",
+            "content_movement": "Nari's observations have become richer and her explanation poorer. Orem sees the cost of turning away; Nari sees the cost of continuing. Neither acquires the perspective needed to know the proper balance.",
+            "emotional_register": "humility and dread",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-030",
+            "primary_mode": "exposition",
+            "beat_label": "Final image",
+            "content_movement": "End on the answering light and altered correspondence rather than an explanatory conclusion. An answer has occurred, but it does not fit inside the human question.",
+            "emotional_register": "luminous incomprehension",
+            "transition_role": "scene_exit"
+          }
+        ],
+        "legacy_status": "committed_intermediate",
+        "legacy_revision": 3,
+        "candidate_status": "candidate",
+        "target_scope": "SCN-000003",
+        "dependencies": [
+          "SCN-000003",
+          "BEATS-SCN-000003",
+          "MODES-SCN-000003"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000003",
+            "target_revision": "author-revision-2",
+            "authority_basis": "accepted",
+            "material": true
+          },
+          {
+            "target_id": "BEATS-SCN-000003",
+            "target_revision": "author-revision-1",
+            "authority_basis": "candidate",
+            "material": true
+          },
+          {
+            "target_id": "MODES-SCN-000003",
+            "target_revision": "author-revision-1",
+            "authority_basis": "candidate",
+            "material": true
+          }
+        ],
+        "revision": "author-revision-2"
+      },
+      {
+        "id": "PPL-000003",
+        "surface": "prose.pseudo_prose",
+        "authority_class": "production_candidate",
+        "layout_status": "ready_for_generation_package",
+        "nonprose_declaration": "This is an ordered drafting layout, not final prose.",
+        "opening_shape": "two human responses to the unknowable meet inside an active phenomenon neither can explain",
+        "closing_shape": "answering light leaves both characters with more evidence and less confidence that evidence can become comprehension",
+        "units": [
+          {
+            "unit_id": "PPLU-019",
+            "primary_mode": "exposition",
+            "beat_label": "Active chamber",
+            "content_movement": "Re-anchor the lower chamber in the continuing broken count and Orem's arrival. The phenomenon proceeds regardless of the human disagreement around it.",
+            "emotional_register": "inescapable pressure",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-020",
+            "primary_mode": "action",
+            "beat_label": "Orem at the threshold",
+            "content_movement": "Orem enters or blocks the threshold as someone attempting to prevent consequences he cannot describe with certainty. Nari sees recognition and old fear rather than a simple antagonist's refusal.",
+            "emotional_register": "controlled dread",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-021",
+            "primary_mode": "dialogue",
+            "beat_label": "Observation without explanation",
+            "content_movement": "Nari gives Orem the observations she repeated: star, count, chamber, response. She does not claim to know what the God-Stone is doing or what the response means.",
+            "emotional_register": "urgent restraint",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-022",
+            "primary_mode": "dialogue",
+            "beat_label": "Questions abandoned",
+            "content_movement": "Orem reveals enough from earlier experience, inherited warning, or both to show how repeated exposure to dangerous uncertainty narrowed what he was willing to investigate. Do not resolve whether the formative evidence was primarily personal, inherited, or both.",
+            "emotional_register": "sorrow and guarded fear",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-023",
+            "primary_mode": "internal",
+            "beat_label": "Orem's cost",
+            "content_movement": "Nari perceives remorse in Orem: caution may have protected him and others, but he cannot know what his refusal to keep asking may have kept him from learning.",
+            "emotional_register": "compassion without agreement",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-024",
+            "primary_mode": "exposition",
+            "beat_label": "The phenomenon continues",
+            "content_movement": "The broken count advances through observable changes in the chamber and God-Stone that correspond to the already-recorded wrong-moving star pattern. Nari remains underground; do not give her direct observational access to new changes in the sky.",
+            "emotional_register": "cosmic pressure",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-025",
+            "primary_mode": "internal",
+            "beat_label": "Curiosity's cost",
+            "content_movement": "Nari hesitates. For the first time she fully feels that a discoverable fact can still be dangerous, and that gaining knowledge does not guarantee the capacity to understand its consequences or respond to them wisely.",
+            "emotional_register": "fear without retreat",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-026",
+            "primary_mode": "dialogue",
+            "beat_label": "No safe answer",
+            "content_movement": "Between what they observe and what Orem remembers, neither can establish that stopping the pattern is safer than allowing it to continue. Avoid turning this into a philosophical debate; uncertainty should arise from the immediate situation.",
+            "emotional_register": "helpless uncertainty",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-027",
+            "primary_mode": "action",
+            "beat_label": "Nari permits the pattern",
+            "content_movement": "Nari completes or permits the next observed step without treating the choice as courageous proof or intellectual victory. She acts while knowing she may be making a mistake.",
+            "emotional_register": "frightened commitment",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-028",
+            "primary_mode": "exposition",
+            "beat_label": "Answering light",
+            "content_movement": "The God-Stone and lower chamber enter synchronized correspondence with the recorded wrong-moving-star pattern and the answering light comes. Render the response as undeniable while leaving source, agency, purpose, mechanism, and consequence unclassified; do not require Nari to observe the sky directly from underground.",
+            "emotional_register": "awe and terror",
+            "transition_role": "climax"
+          },
+          {
+            "unit_id": "PPLU-029",
+            "primary_mode": "internal",
+            "beat_label": "Human limits",
+            "content_movement": "Orem's response makes clear that restraint has cost him something he cannot recover, while Nari can no longer treat continued inquiry as harmless. Neither can tell from what they know what the safer choice would have been, and neither acquires the perspective needed to define the proper balance.",
+            "emotional_register": "humility and dread",
+            "transition_role": "ordered_scene_progression"
+          },
+          {
+            "unit_id": "PPLU-030",
+            "primary_mode": "exposition",
+            "beat_label": "Final image",
+            "content_movement": "End on the answering light and altered correspondence rather than an explanatory conclusion. An answer has occurred, but it does not fit inside the human question.",
+            "emotional_register": "luminous incomprehension",
+            "transition_role": "scene_exit"
+          }
+        ],
+        "legacy_status": "committed_intermediate",
+        "legacy_revision": 3,
+        "candidate_status": "candidate",
+        "target_scope": "SCN-000003",
+        "dependencies": [
+          "SCN-000003",
+          "BEATS-SCN-000003",
+          "MODES-SCN-000003"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000003",
+            "target_revision": "author-revision-2",
+            "authority_basis": "accepted",
+            "material": true
+          },
+          {
+            "target_id": "BEATS-SCN-000003",
+            "target_revision": "candidate-revision-fd9c3398a105fe503fee",
+            "authority_basis": "candidate",
+            "material": true
+          },
+          {
+            "target_id": "MODES-SCN-000003",
+            "target_revision": "candidate-revision-e928a4f25a10e59b6cc2",
+            "authority_basis": "candidate",
+            "material": true
+          }
+        ],
+        "revision": "candidate-revision-dacd9b60e199be958005"
+      }
+    ],
+    "accepted_from_candidate_revision": "candidate-revision-1a46be1b17a5438c4917",
+    "acceptance": {
+      "operation": "production_approval",
+      "scope": "PPL-000003",
+      "candidate_revision": "candidate-revision-1a46be1b17a5438c4917",
+      "accepted_revision": "accepted-revision-2cda7fd5a3fa5daef336",
+      "coordination": {
+        "operation": "coordinated_acceptance",
+        "decision_id": "coordinated-acceptance-eb0cca0a0470d80b51ad",
+        "related_scopes": [
+          "BEATS-SCN-000003",
+          "MODES-SCN-000003",
+          "PPL-000003"
+        ]
+      }
+    }
   }
 }

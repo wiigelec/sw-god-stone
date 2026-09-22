@@ -388,7 +388,7 @@
   "MODES-SCN-000003": {
     "id": "MODES-SCN-000003",
     "surface": "prose.modes",
-    "authority_class": "production_candidate",
+    "authority_class": "production_approved",
     "target_scope": "SCN-000003",
     "assignments": [
       {
@@ -486,18 +486,266 @@
     ],
     "dependency_relations": [
       {
-        "target_id": "SCN-000003",
-        "target_revision": "author-revision-2",
+        "target_id": "BEATS-SCN-000003",
+        "target_revision": "accepted-revision-2238bf1b760778b58f97",
         "authority_basis": "accepted",
         "material": true
       },
       {
-        "target_id": "BEATS-SCN-000003",
-        "target_revision": "author-revision-1",
-        "authority_basis": "candidate",
+        "target_id": "SCN-000003",
+        "target_revision": "semantic-revision-352d5d84d7a30f36c200",
+        "authority_basis": "accepted",
         "material": true
       }
     ],
-    "revision": "author-revision-1"
+    "revision": "accepted-revision-1aa0128d22f868cd7e3e",
+    "candidate_revision_history": [
+      {
+        "id": "MODES-SCN-000003",
+        "surface": "prose.modes",
+        "authority_class": "production_candidate",
+        "target_scope": "SCN-000003",
+        "assignments": [
+          {
+            "beat_index": 1,
+            "modes": [
+              "action",
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 2,
+            "modes": [
+              "dialogue"
+            ]
+          },
+          {
+            "beat_index": 3,
+            "modes": [
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 4,
+            "modes": [
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 5,
+            "modes": [
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 6,
+            "modes": [
+              "exposition",
+              "action"
+            ]
+          },
+          {
+            "beat_index": 7,
+            "modes": [
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 8,
+            "modes": [
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 9,
+            "modes": [
+              "action",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 10,
+            "modes": [
+              "exposition",
+              "action"
+            ]
+          },
+          {
+            "beat_index": 11,
+            "modes": [
+              "exposition",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 12,
+            "modes": [
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 13,
+            "modes": [
+              "exposition",
+              "internal"
+            ]
+          }
+        ],
+        "dependencies": [
+          "BEATS-SCN-000003",
+          "SCN-000003"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000003",
+            "target_revision": "author-revision-2",
+            "authority_basis": "accepted",
+            "material": true
+          },
+          {
+            "target_id": "BEATS-SCN-000003",
+            "target_revision": "author-revision-1",
+            "authority_basis": "candidate",
+            "material": true
+          }
+        ],
+        "revision": "author-revision-1"
+      },
+      {
+        "id": "MODES-SCN-000003",
+        "surface": "prose.modes",
+        "authority_class": "production_candidate",
+        "target_scope": "SCN-000003",
+        "assignments": [
+          {
+            "beat_index": 1,
+            "modes": [
+              "action",
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 2,
+            "modes": [
+              "dialogue"
+            ]
+          },
+          {
+            "beat_index": 3,
+            "modes": [
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 4,
+            "modes": [
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 5,
+            "modes": [
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 6,
+            "modes": [
+              "exposition",
+              "action"
+            ]
+          },
+          {
+            "beat_index": 7,
+            "modes": [
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 8,
+            "modes": [
+              "dialogue",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 9,
+            "modes": [
+              "action",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 10,
+            "modes": [
+              "exposition",
+              "action"
+            ]
+          },
+          {
+            "beat_index": 11,
+            "modes": [
+              "exposition",
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 12,
+            "modes": [
+              "internal"
+            ]
+          },
+          {
+            "beat_index": 13,
+            "modes": [
+              "exposition",
+              "internal"
+            ]
+          }
+        ],
+        "dependencies": [
+          "BEATS-SCN-000003",
+          "SCN-000003"
+        ],
+        "dependency_relations": [
+          {
+            "target_id": "SCN-000003",
+            "target_revision": "author-revision-2",
+            "authority_basis": "accepted",
+            "material": true
+          },
+          {
+            "target_id": "BEATS-SCN-000003",
+            "target_revision": "candidate-revision-fd9c3398a105fe503fee",
+            "authority_basis": "candidate",
+            "material": true
+          }
+        ],
+        "revision": "candidate-revision-e928a4f25a10e59b6cc2"
+      }
+    ],
+    "accepted_from_candidate_revision": "candidate-revision-719ec982e0f5c9b36cd9",
+    "acceptance": {
+      "operation": "production_approval",
+      "scope": "MODES-SCN-000003",
+      "candidate_revision": "candidate-revision-719ec982e0f5c9b36cd9",
+      "accepted_revision": "accepted-revision-1aa0128d22f868cd7e3e",
+      "coordination": {
+        "operation": "coordinated_acceptance",
+        "decision_id": "coordinated-acceptance-eb0cca0a0470d80b51ad",
+        "related_scopes": [
+          "BEATS-SCN-000003",
+          "MODES-SCN-000003",
+          "PPL-000003"
+        ]
+      }
+    }
   }
 }
