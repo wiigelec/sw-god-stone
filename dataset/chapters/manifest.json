@@ -8,7 +8,7 @@
       "revision": "normalized-manuscript-revision-c1da188233db71c2ffb7",
       "ordinal": 1,
       "plot_scope": "SCN-000001",
-      "path": "chapters/scene-01.md",
+      "path": "chapters/001-SCN-000001.md",
       "normalization_provenance": {
         "operation": "manuscript_manifest_normalization",
         "source_commit": "6bfe1f4d033b33d45b66b00ba2c8ce935413295a",
